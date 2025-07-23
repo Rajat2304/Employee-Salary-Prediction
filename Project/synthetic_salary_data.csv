@@ -1,0 +1,2001 @@
+age,education,occupation,experience,hours-per-week,salary
+32,Bachelors,Software Engineer,10,27,43720
+28,Assoc,Nurse,10,43,35709
+39,Masters,Accountant,20,21,52182
+38,Some-college,Armed-Forces,0,31,24934
+61,Some-college,Machine-op-inspct,24,68,40242
+64,Bachelors,Sales Associate,2,56,31508
+38,Assoc,Nurse,8,58,31045
+19,Some-college,Handlers-cleaners,1,47,23138
+61,Bachelors,Sales Associate,7,66,35533
+21,Some-college,Farming-fishing,1,25,18000
+21,PhD,Research Scientist,1,48,61946
+57,PhD,Legal Advisor,20,35,66428
+64,Masters,Project Manager,23,45,61141
+46,Masters,Data Scientist,14,64,66047
+24,HS-grad,Sales Associate,0,43,18000
+34,Assoc,Nurse,7,54,32422
+22,Assoc,Quality Analyst,1,58,30795
+50,HS-grad,Marketing Manager,22,43,45002
+61,Masters,Accountant,39,41,68719
+31,Masters,Accountant,2,20,37908
+31,Masters,Project Manager,6,46,39250
+30,Some-college,Armed-Forces,2,51,30694
+49,HS-grad,Sales Associate,3,49,25244
+53,Assoc,Quality Analyst,12,51,35069
+39,Assoc,Nurse,1,61,31665
+28,PhD,Research Scientist,9,47,69995
+50,HS-grad,Graphic Designer,0,46,25384
+56,HS-grad,Graphic Designer,5,27,24770
+54,Assoc,Quality Analyst,32,61,58772
+29,PhD,Professor,6,21,56184
+54,Assoc,Quality Analyst,16,68,44479
+18,Masters,Data Scientist,0,38,48462
+61,PhD,Research Scientist,25,51,87696
+34,Assoc,Nurse,5,43,33491
+23,Masters,Project Manager,5,30,44981
+23,HS-grad,Graphic Designer,4,22,25958
+53,Bachelors,Sales Associate,18,45,38323
+50,Bachelors,Software Engineer,17,59,56771
+45,HS-grad,Graphic Designer,24,44,43914
+24,Some-college,Craft-repair,3,35,18891
+19,Some-college,Transport-moving,0,67,26017
+26,Assoc,Nurse,8,54,36565
+37,Assoc,Nurse,0,43,27544
+65,PhD,Legal Advisor,24,54,75156
+35,HS-grad,Sales Associate,13,37,24501
+53,Masters,Data Scientist,32,23,74392
+38,HS-grad,Marketing Manager,15,39,40857
+50,Assoc,Quality Analyst,11,41,32903
+47,PhD,Research Scientist,5,57,67696
+51,Assoc,Nurse,20,49,44513
+50,HS-grad,Graphic Designer,4,67,27322
+46,Bachelors,Business Analyst,13,25,45406
+54,Assoc,Quality Analyst,23,48,48123
+38,Assoc,Quality Analyst,0,22,24457
+59,Some-college,Transport-moving,30,22,45250
+19,PhD,Legal Advisor,0,46,49584
+43,Some-college,Tech-support,16,59,42907
+43,Masters,Project Manager,2,69,49434
+24,HS-grad,Sales Associate,0,55,24427
+29,PhD,Research Scientist,2,42,62638
+19,Bachelors,Business Analyst,1,42,30799
+39,Some-college,Machine-op-inspct,16,61,40743
+60,PhD,Legal Advisor,36,52,81446
+56,Bachelors,Software Engineer,3,25,42142
+64,Masters,Project Manager,34,59,68537
+36,HS-grad,Graphic Designer,4,45,26066
+40,Masters,Project Manager,8,31,43399
+51,HS-grad,Graphic Designer,31,67,53463
+18,HS-grad,Sales Associate,0,35,25336
+46,Masters,Project Manager,22,22,59567
+33,Bachelors,Business Analyst,2,56,36651
+64,Bachelors,Software Engineer,29,65,66561
+29,PhD,Professor,9,45,52196
+47,HS-grad,Marketing Manager,4,42,25439
+22,Some-college,Priv-house-serv,3,53,22464
+21,Masters,Data Scientist,3,43,52789
+45,Some-college,Nurse,26,39,43516
+50,Bachelors,Software Engineer,11,22,50601
+57,HS-grad,Sales Associate,9,62,33202
+25,HS-grad,Marketing Manager,4,45,27043
+51,Some-college,Priv-house-serv,6,23,19952
+53,Assoc,Quality Analyst,24,40,49556
+53,Masters,Data Scientist,9,56,60768
+65,HS-grad,Graphic Designer,35,37,54025
+49,HS-grad,Graphic Designer,23,42,45982
+58,HS-grad,Graphic Designer,29,36,46001
+37,HS-grad,Marketing Manager,15,44,40004
+58,HS-grad,Sales Associate,18,31,35424
+45,HS-grad,Graphic Designer,13,50,34942
+52,Masters,Data Scientist,11,44,59787
+38,Bachelors,Sales Associate,3,42,27243
+56,Masters,Project Manager,13,50,53523
+52,Some-college,Handlers-cleaners,22,48,37376
+27,Bachelors,Software Engineer,9,63,49396
+55,HS-grad,Sales Associate,6,65,29316
+19,Some-college,Protective-serv,0,48,25209
+36,Masters,Project Manager,7,67,51624
+48,Masters,Project Manager,18,63,59531
+44,PhD,Legal Advisor,9,45,55289
+45,Masters,Data Scientist,25,39,65410
+58,Bachelors,Software Engineer,38,20,68939
+42,HS-grad,Graphic Designer,23,52,46003
+23,PhD,Professor,1,63,56814
+38,Masters,Project Manager,10,56,52372
+36,Bachelors,Sales Associate,17,66,49127
+20,HS-grad,Sales Associate,2,30,24198
+49,Bachelors,Business Analyst,15,27,43811
+45,Masters,Project Manager,3,45,42312
+45,Some-college,Armed-Forces,27,56,52994
+37,HS-grad,Sales Associate,12,47,36890
+63,Masters,Data Scientist,34,25,74899
+62,PhD,Research Scientist,4,52,68178
+35,PhD,Professor,14,68,72830
+44,HS-grad,Marketing Manager,16,32,36705
+58,HS-grad,Marketing Manager,34,20,55456
+20,Masters,Project Manager,0,42,44378
+54,Masters,Data Scientist,9,29,52323
+18,HS-grad,Marketing Manager,0,64,27206
+18,Masters,Project Manager,0,68,36104
+29,Assoc,Nurse,0,63,29241
+47,Masters,Project Manager,26,36,64213
+56,Some-college,Protective-serv,37,53,62421
+51,PhD,Research Scientist,17,49,72528
+55,Some-college,Other-service,32,43,48391
+59,Bachelors,Business Analyst,16,24,46413
+34,HS-grad,Marketing Manager,4,53,33749
+19,PhD,Professor,0,62,51051
+33,HS-grad,Graphic Designer,14,30,35886
+20,PhD,Professor,2,46,51735
+36,Some-college,Craft-repair,4,37,24660
+39,Bachelors,Business Analyst,20,25,50232
+31,Some-college,Tech-support,9,64,32311
+43,Assoc,Quality Analyst,24,66,49690
+65,PhD,Legal Advisor,16,45,63934
+25,Bachelors,Software Engineer,0,54,38973
+43,PhD,Research Scientist,22,33,75960
+31,Some-college,Priv-house-serv,10,26,28327
+62,Assoc,Nurse,17,57,45189
+32,Assoc,Nurse,8,56,36361
+39,HS-grad,Graphic Designer,11,44,28472
+37,HS-grad,Sales Associate,3,29,22680
+39,Bachelors,Sales Associate,1,66,34799
+59,HS-grad,Graphic Designer,40,56,63689
+62,Some-college,Protective-serv,5,56,27525
+39,HS-grad,Sales Associate,20,25,37484
+47,PhD,Legal Advisor,23,28,63005
+48,Assoc,Nurse,7,56,35787
+23,Bachelors,Sales Associate,5,68,34887
+19,PhD,Research Scientist,0,30,53426
+23,Bachelors,Software Engineer,1,23,39758
+37,Assoc,Quality Analyst,16,31,39689
+28,PhD,Professor,3,32,51639
+50,Assoc,Nurse,5,69,40779
+19,Some-college,Armed-Forces,0,59,23577
+18,Some-college,Other-service,0,56,27874
+48,Assoc,Plant Supervisor,16,24,37304
+31,PhD,Research Scientist,4,30,61416
+25,PhD,Professor,2,60,56610
+47,Masters,Project Manager,2,40,39565
+21,PhD,Research Scientist,0,64,60698
+35,Some-college,Transport-moving,7,27,21664
+55,Assoc,Quality Analyst,32,42,51319
+34,HS-grad,Sales Associate,0,66,27273
+23,Assoc,Nurse,5,22,24284
+32,Assoc,Plant Supervisor,14,48,42880
+55,Assoc,Quality Analyst,32,56,56559
+50,Assoc,Nurse,3,41,28082
+55,Some-college,Nurse,12,50,42262
+41,Bachelors,Software Engineer,19,34,53489
+19,Bachelors,Software Engineer,0,50,40443
+53,Assoc,Nurse,35,45,55877
+27,Assoc,Plant Supervisor,7,57,31004
+64,PhD,Legal Advisor,25,65,77404
+42,PhD,Research Scientist,0,66,63331
+29,Bachelors,Sales Associate,11,55,36393
+46,HS-grad,Marketing Manager,13,59,42754
+28,HS-grad,Marketing Manager,6,20,35746
+26,Masters,Accountant,4,28,38509
+43,Some-college,Other-service,8,54,30830
+19,Assoc,Plant Supervisor,0,37,18614
+44,Assoc,Plant Supervisor,16,62,44395
+41,Bachelors,Business Analyst,0,68,34275
+60,Masters,Accountant,21,45,52827
+57,Bachelors,Sales Associate,6,20,27633
+40,Masters,Project Manager,18,38,54279
+46,HS-grad,Sales Associate,15,59,31989
+18,Assoc,Plant Supervisor,0,33,25003
+47,PhD,Professor,5,23,60245
+56,HS-grad,Sales Associate,2,51,25284
+50,Some-college,Armed-Forces,22,47,45104
+46,Some-college,Adm-clerical,7,20,24243
+25,Assoc,Nurse,5,66,35864
+50,Masters,Accountant,27,66,65254
+60,PhD,Research Scientist,15,23,72658
+38,Bachelors,Software Engineer,13,50,49691
+50,Some-college,Adm-clerical,22,40,41157
+36,Assoc,Quality Analyst,3,48,31250
+59,Masters,Accountant,1,22,34037
+54,Bachelors,Software Engineer,29,28,59216
+39,Bachelors,Business Analyst,11,43,41637
+47,HS-grad,Marketing Manager,23,65,46364
+34,Some-college,Craft-repair,13,28,31196
+56,Some-college,Transport-moving,8,41,24638
+23,Masters,Accountant,1,40,34752
+58,Some-college,Other-service,37,53,59613
+40,Some-college,Armed-Forces,20,61,48633
+44,PhD,Professor,24,50,75440
+24,Bachelors,Software Engineer,1,64,45656
+38,HS-grad,Marketing Manager,13,21,36994
+53,Assoc,Quality Analyst,25,48,46925
+57,Masters,Accountant,10,55,43160
+51,Assoc,Plant Supervisor,23,41,47950
+53,Masters,Data Scientist,19,38,63260
+62,PhD,Legal Advisor,33,28,78005
+26,Some-college,Tech-support,8,59,32912
+42,Assoc,Plant Supervisor,6,54,37043
+54,Assoc,Plant Supervisor,29,57,49508
+34,Bachelors,Sales Associate,9,68,41560
+33,Bachelors,Business Analyst,7,38,40841
+33,Masters,Project Manager,5,27,45246
+42,HS-grad,Marketing Manager,11,34,33191
+33,Some-college,Priv-house-serv,6,36,22865
+39,Some-college,Handlers-cleaners,6,33,24333
+40,Assoc,Plant Supervisor,17,50,40247
+52,PhD,Legal Advisor,17,61,70869
+51,Assoc,Quality Analyst,2,56,32883
+40,Assoc,Plant Supervisor,11,58,38947
+42,Masters,Project Manager,12,37,45175
+59,HS-grad,Sales Associate,1,54,23905
+56,Assoc,Nurse,28,68,58775
+61,Masters,Project Manager,15,63,53095
+47,Masters,Data Scientist,16,22,57603
+47,Masters,Project Manager,17,23,56168
+63,HS-grad,Sales Associate,14,28,36634
+41,HS-grad,Sales Associate,3,31,24107
+30,PhD,Legal Advisor,1,44,45868
+25,Bachelors,Sales Associate,3,48,32217
+27,Masters,Project Manager,1,45,45152
+20,HS-grad,Sales Associate,1,24,24451
+41,PhD,Professor,2,51,53773
+30,Assoc,Plant Supervisor,7,66,35583
+45,Assoc,Nurse,8,22,35326
+29,HS-grad,Marketing Manager,9,28,33366
+51,Assoc,Nurse,23,34,45510
+22,PhD,Legal Advisor,1,37,47605
+57,HS-grad,Marketing Manager,31,48,54059
+20,Assoc,Plant Supervisor,1,59,25017
+33,PhD,Legal Advisor,7,47,56856
+65,HS-grad,Graphic Designer,40,32,58256
+44,Some-college,Other-service,5,26,25343
+62,Masters,Accountant,30,42,61574
+19,Some-college,Other-service,1,32,19218
+19,Masters,Accountant,1,32,34977
+51,HS-grad,Graphic Designer,23,64,46616
+36,Assoc,Plant Supervisor,6,29,32781
+47,Bachelors,Sales Associate,4,48,29609
+21,PhD,Research Scientist,2,36,61279
+39,PhD,Professor,17,69,74742
+46,PhD,Legal Advisor,11,55,63659
+46,Bachelors,Sales Associate,10,52,40713
+32,PhD,Legal Advisor,2,30,48412
+46,PhD,Research Scientist,3,36,65002
+58,Assoc,Quality Analyst,38,34,60461
+64,Bachelors,Business Analyst,13,39,46668
+44,PhD,Legal Advisor,2,36,50877
+37,Masters,Accountant,5,38,38708
+20,HS-grad,Sales Associate,2,20,24708
+42,Some-college,Craft-repair,23,31,38176
+33,Some-college,Armed-Forces,10,27,32592
+25,Masters,Data Scientist,6,46,52995
+24,PhD,Research Scientist,2,48,61491
+42,PhD,Legal Advisor,13,26,61472
+61,HS-grad,Marketing Manager,19,55,40383
+39,Bachelors,Sales Associate,21,21,44691
+34,Assoc,Quality Analyst,7,40,30507
+48,PhD,Legal Advisor,5,51,52979
+42,Assoc,Quality Analyst,0,57,28684
+34,Assoc,Quality Analyst,11,65,40712
+45,PhD,Research Scientist,19,52,76547
+19,Bachelors,Software Engineer,0,52,39967
+47,HS-grad,Sales Associate,0,32,19552
+56,Some-college,Machine-op-inspct,25,65,44810
+32,Some-college,Tech-support,1,61,30598
+23,PhD,Professor,0,58,57111
+29,HS-grad,Marketing Manager,7,27,32537
+24,PhD,Legal Advisor,2,39,51387
+39,Bachelors,Business Analyst,2,60,37745
+29,Some-college,Machine-op-inspct,6,31,21503
+62,Masters,Data Scientist,18,65,66221
+49,Masters,Accountant,18,63,53076
+35,Some-college,Machine-op-inspct,4,51,23715
+52,Bachelors,Business Analyst,28,34,65435
+29,HS-grad,Graphic Designer,0,49,22570
+21,Bachelors,Software Engineer,3,63,46056
+49,PhD,Research Scientist,8,55,67592
+32,Bachelors,Business Analyst,1,55,35467
+59,PhD,Legal Advisor,11,22,61591
+43,HS-grad,Graphic Designer,7,55,33750
+59,PhD,Legal Advisor,13,33,53175
+58,PhD,Professor,13,58,67446
+56,HS-grad,Marketing Manager,5,36,29435
+54,Some-college,Craft-repair,4,20,23182
+40,Bachelors,Software Engineer,14,50,52292
+47,Some-college,Armed-Forces,8,20,28632
+29,Masters,Accountant,0,39,37111
+61,Masters,Data Scientist,27,66,73086
+37,PhD,Legal Advisor,17,33,63420
+46,Bachelors,Business Analyst,0,54,33581
+22,PhD,Professor,0,68,61089
+41,Bachelors,Software Engineer,10,53,51029
+46,HS-grad,Marketing Manager,24,58,51695
+61,Some-college,Adm-clerical,37,39,48059
+33,PhD,Professor,1,61,54468
+25,Masters,Data Scientist,4,51,54663
+64,PhD,Professor,21,66,77475
+27,Some-college,Protective-serv,1,37,25239
+25,HS-grad,Marketing Manager,6,59,32194
+21,HS-grad,Marketing Manager,0,20,24697
+33,Assoc,Nurse,13,67,40482
+23,Bachelors,Business Analyst,0,52,35641
+65,HS-grad,Sales Associate,12,28,30145
+55,Assoc,Plant Supervisor,3,57,29246
+51,Assoc,Plant Supervisor,17,32,38972
+41,Assoc,Quality Analyst,21,26,46979
+32,HS-grad,Sales Associate,0,31,22928
+42,Assoc,Quality Analyst,0,68,35310
+61,HS-grad,Graphic Designer,37,45,52328
+19,PhD,Research Scientist,1,28,59280
+43,Assoc,Quality Analyst,7,67,36564
+60,Bachelors,Sales Associate,22,25,41846
+61,PhD,Research Scientist,20,42,78291
+42,Masters,Accountant,3,30,35900
+21,Assoc,Nurse,0,32,23427
+63,Masters,Data Scientist,26,48,71898
+25,Bachelors,Sales Associate,7,61,39286
+21,HS-grad,Sales Associate,1,44,23632
+24,PhD,Legal Advisor,6,63,58263
+59,HS-grad,Marketing Manager,35,39,52164
+24,Bachelors,Business Analyst,5,20,38192
+39,Assoc,Quality Analyst,21,40,37847
+43,PhD,Professor,8,34,54893
+25,Masters,Project Manager,7,35,49873
+44,HS-grad,Marketing Manager,4,23,29607
+27,Bachelors,Sales Associate,8,37,30798
+50,Assoc,Plant Supervisor,4,66,34472
+38,HS-grad,Graphic Designer,16,41,34698
+52,Masters,Accountant,27,26,54057
+42,PhD,Professor,1,54,55569
+20,Masters,Project Manager,1,58,46306
+55,Bachelors,Business Analyst,31,58,62700
+53,Masters,Project Manager,32,55,69545
+58,Assoc,Plant Supervisor,38,23,56079
+19,Masters,Data Scientist,1,24,48990
+20,PhD,Research Scientist,1,63,61595
+20,Masters,Project Manager,1,25,39741
+52,PhD,Professor,33,42,79978
+61,PhD,Research Scientist,35,24,90446
+33,HS-grad,Graphic Designer,9,49,28598
+33,HS-grad,Graphic Designer,11,36,25061
+57,Bachelors,Sales Associate,4,39,27351
+47,Bachelors,Software Engineer,20,39,53627
+33,HS-grad,Sales Associate,11,57,33863
+31,Bachelors,Business Analyst,3,52,35894
+19,HS-grad,Sales Associate,0,28,18000
+20,HS-grad,Graphic Designer,1,42,23422
+59,PhD,Professor,11,66,64973
+55,HS-grad,Marketing Manager,17,64,46397
+23,PhD,Research Scientist,2,35,58674
+26,Bachelors,Business Analyst,4,54,40241
+35,Some-college,Other-service,9,44,25353
+50,Some-college,Transport-moving,30,33,46169
+23,Assoc,Quality Analyst,0,32,26969
+25,Masters,Project Manager,4,53,41446
+48,Masters,Data Scientist,13,39,59390
+23,Some-college,Armed-Forces,4,62,36466
+22,Assoc,Nurse,2,53,32758
+19,Some-college,Transport-moving,1,30,22974
+36,HS-grad,Graphic Designer,8,54,34435
+45,Masters,Data Scientist,13,26,58329
+57,Bachelors,Sales Associate,16,56,43026
+53,Bachelors,Software Engineer,34,26,63240
+39,Masters,Data Scientist,4,21,57949
+38,PhD,Legal Advisor,5,34,56873
+30,Masters,Data Scientist,4,45,54185
+35,Some-college,Handlers-cleaners,4,64,26134
+38,HS-grad,Graphic Designer,19,45,38012
+65,PhD,Research Scientist,17,59,77807
+59,Masters,Project Manager,20,61,64414
+58,Masters,Data Scientist,16,28,61505
+57,Some-college,Priv-house-serv,20,47,35610
+51,Assoc,Nurse,7,41,35066
+41,Bachelors,Sales Associate,12,38,39703
+40,Masters,Data Scientist,4,27,50286
+22,Assoc,Quality Analyst,3,40,27801
+28,Some-college,Other-service,3,34,18708
+49,Masters,Project Manager,7,29,41053
+49,PhD,Legal Advisor,15,47,63335
+19,HS-grad,Sales Associate,0,69,26414
+53,Assoc,Quality Analyst,3,33,29745
+53,Some-college,Handlers-cleaners,11,46,29007
+30,Some-college,Machine-op-inspct,4,51,26804
+28,Bachelors,Business Analyst,9,34,42083
+26,HS-grad,Marketing Manager,8,59,30655
+39,HS-grad,Marketing Manager,19,49,38030
+61,Bachelors,Software Engineer,31,65,67368
+64,HS-grad,Sales Associate,17,40,38138
+38,Masters,Project Manager,7,65,52721
+39,Bachelors,Sales Associate,21,62,50136
+45,HS-grad,Marketing Manager,12,37,35606
+48,Bachelors,Sales Associate,14,42,36294
+39,Bachelors,Software Engineer,10,56,50301
+40,PhD,Legal Advisor,6,63,64504
+64,HS-grad,Sales Associate,7,61,33817
+20,Bachelors,Software Engineer,0,23,38117
+51,Assoc,Plant Supervisor,24,29,47914
+19,Assoc,Nurse,0,67,32171
+53,Masters,Data Scientist,21,61,68737
+37,Some-college,Handlers-cleaners,10,35,28660
+23,Assoc,Nurse,2,56,29593
+41,Bachelors,Business Analyst,21,54,51846
+55,Some-college,Handlers-cleaners,20,59,38855
+24,Masters,Data Scientist,3,48,50870
+41,PhD,Legal Advisor,4,35,53435
+47,PhD,Research Scientist,17,38,70416
+63,Bachelors,Sales Associate,18,41,44068
+48,Some-college,Machine-op-inspct,3,38,23960
+50,Masters,Project Manager,17,68,63883
+62,Assoc,Quality Analyst,32,36,55017
+44,PhD,Legal Advisor,14,25,61359
+20,Some-college,Tech-support,0,62,22958
+62,HS-grad,Marketing Manager,5,36,27041
+38,Masters,Data Scientist,9,24,52447
+43,Bachelors,Business Analyst,3,58,38114
+53,Bachelors,Software Engineer,20,49,54801
+47,Bachelors,Business Analyst,21,47,50414
+33,PhD,Research Scientist,15,50,70715
+30,Some-college,Transport-moving,5,63,29994
+60,Assoc,Plant Supervisor,20,23,41992
+44,Some-college,Nurse,6,25,30877
+43,Masters,Project Manager,11,33,49318
+38,HS-grad,Sales Associate,17,24,32524
+42,HS-grad,Graphic Designer,20,31,40417
+58,HS-grad,Sales Associate,32,69,53081
+39,HS-grad,Graphic Designer,0,36,25073
+51,Masters,Data Scientist,27,62,76741
+23,HS-grad,Marketing Manager,5,25,27582
+27,Some-college,Nurse,4,24,27339
+56,Assoc,Quality Analyst,21,31,48565
+27,PhD,Legal Advisor,2,68,53785
+21,Bachelors,Business Analyst,1,41,31602
+39,Masters,Accountant,19,47,56056
+19,HS-grad,Graphic Designer,0,22,21949
+59,Bachelors,Software Engineer,34,25,66091
+60,Assoc,Plant Supervisor,18,24,35291
+29,Assoc,Nurse,9,27,35710
+38,Bachelors,Software Engineer,7,28,42129
+59,PhD,Research Scientist,19,25,73091
+20,Assoc,Quality Analyst,2,69,34814
+50,Assoc,Plant Supervisor,27,20,48480
+54,Bachelors,Sales Associate,3,49,28694
+36,PhD,Research Scientist,8,31,62651
+62,HS-grad,Graphic Designer,20,49,43655
+21,Masters,Project Manager,3,57,46274
+21,Assoc,Quality Analyst,0,39,22709
+22,Some-college,Priv-house-serv,2,47,21037
+36,Some-college,Machine-op-inspct,11,30,29800
+61,Some-college,Armed-Forces,8,40,33681
+43,Bachelors,Business Analyst,15,40,44582
+50,Bachelors,Business Analyst,20,54,52320
+28,Some-college,Priv-house-serv,8,42,22453
+22,PhD,Professor,3,30,52707
+33,HS-grad,Sales Associate,1,21,22566
+56,Assoc,Nurse,5,28,31981
+38,PhD,Legal Advisor,2,65,53854
+53,Bachelors,Business Analyst,11,36,44209
+35,Masters,Accountant,0,25,35268
+40,Assoc,Nurse,1,65,33979
+36,PhD,Legal Advisor,13,39,59399
+57,HS-grad,Sales Associate,23,33,40145
+63,HS-grad,Graphic Designer,2,61,28054
+45,Assoc,Quality Analyst,19,64,48761
+64,Bachelors,Sales Associate,13,57,38783
+53,Masters,Data Scientist,16,49,64014
+31,Bachelors,Software Engineer,10,54,47849
+31,HS-grad,Graphic Designer,13,60,37770
+58,PhD,Research Scientist,15,48,74947
+65,PhD,Professor,29,31,77475
+20,Masters,Data Scientist,0,28,50504
+21,Masters,Data Scientist,2,36,46598
+46,Assoc,Plant Supervisor,21,59,46841
+55,Masters,Accountant,19,48,55803
+29,Bachelors,Business Analyst,2,41,37272
+41,Bachelors,Business Analyst,1,46,34709
+39,PhD,Research Scientist,17,36,77137
+43,Masters,Project Manager,7,38,44949
+65,PhD,Legal Advisor,19,68,65530
+55,Masters,Data Scientist,7,62,57087
+59,Masters,Data Scientist,40,28,85538
+58,Masters,Data Scientist,16,43,65195
+30,HS-grad,Graphic Designer,10,65,35215
+30,Assoc,Nurse,12,20,39813
+62,Masters,Data Scientist,11,67,61126
+43,HS-grad,Sales Associate,6,47,25592
+40,Masters,Accountant,16,66,53566
+35,Bachelors,Business Analyst,1,23,31319
+36,Some-college,Handlers-cleaners,14,47,26517
+50,Bachelors,Software Engineer,11,34,46084
+27,Masters,Data Scientist,1,30,52264
+31,Masters,Project Manager,1,28,42482
+44,Bachelors,Business Analyst,20,21,51217
+20,Masters,Project Manager,1,59,45296
+60,Bachelors,Sales Associate,0,64,32093
+38,Some-college,Handlers-cleaners,16,50,37779
+60,PhD,Professor,17,55,69147
+26,Assoc,Quality Analyst,4,57,30975
+20,Some-college,Craft-repair,2,60,29183
+53,Assoc,Plant Supervisor,32,43,51088
+21,Masters,Accountant,0,20,32572
+37,HS-grad,Graphic Designer,18,48,32926
+64,Assoc,Nurse,30,46,54348
+55,PhD,Legal Advisor,4,27,48514
+18,Bachelors,Business Analyst,0,50,33018
+62,Bachelors,Software Engineer,4,49,42913
+21,Assoc,Quality Analyst,1,46,25550
+60,PhD,Research Scientist,26,61,81181
+47,Masters,Accountant,9,56,42650
+59,Some-college,Handlers-cleaners,36,54,53838
+46,Bachelors,Software Engineer,12,66,55759
+62,PhD,Professor,31,67,91082
+40,Masters,Project Manager,18,22,50885
+49,Some-college,Tech-support,12,68,43483
+56,Masters,Accountant,3,20,36513
+41,Bachelors,Sales Associate,2,32,26286
+34,Assoc,Quality Analyst,2,37,32275
+41,PhD,Professor,18,56,68865
+54,Masters,Data Scientist,35,38,80237
+51,Assoc,Quality Analyst,10,64,37076
+56,PhD,Legal Advisor,27,24,72177
+63,HS-grad,Sales Associate,11,25,29588
+53,Bachelors,Business Analyst,10,52,40968
+32,PhD,Legal Advisor,10,30,56445
+31,HS-grad,Graphic Designer,10,37,31686
+64,Bachelors,Sales Associate,3,26,30614
+55,Assoc,Nurse,2,24,26600
+63,Masters,Accountant,30,35,66199
+58,Masters,Project Manager,23,54,63850
+47,PhD,Professor,14,54,65260
+53,Assoc,Quality Analyst,24,56,51581
+54,HS-grad,Graphic Designer,12,59,36051
+57,Assoc,Plant Supervisor,22,28,44579
+47,Some-college,Other-service,5,30,21218
+62,Bachelors,Software Engineer,31,53,67230
+36,Masters,Data Scientist,5,35,50310
+33,Some-college,Priv-house-serv,5,21,22500
+30,Some-college,Priv-house-serv,7,66,29726
+31,Assoc,Nurse,7,46,31964
+56,PhD,Professor,38,20,81706
+36,Masters,Data Scientist,18,44,65244
+34,PhD,Legal Advisor,9,29,56648
+31,Bachelors,Business Analyst,1,47,38023
+41,PhD,Professor,14,41,61482
+25,Assoc,Nurse,1,31,26631
+35,PhD,Research Scientist,1,30,56857
+46,HS-grad,Graphic Designer,25,37,39654
+34,PhD,Research Scientist,7,60,69099
+18,Masters,Accountant,0,62,37565
+44,Assoc,Quality Analyst,1,63,32286
+36,Assoc,Quality Analyst,16,25,39418
+54,Bachelors,Sales Associate,16,42,33702
+27,Assoc,Quality Analyst,6,40,29704
+30,Masters,Accountant,4,52,37954
+42,Bachelors,Sales Associate,8,40,31215
+36,Bachelors,Sales Associate,11,56,37751
+52,Bachelors,Software Engineer,17,33,51674
+24,Assoc,Quality Analyst,0,32,27727
+26,Some-college,Transport-moving,5,30,24159
+50,PhD,Research Scientist,22,64,81953
+20,Bachelors,Business Analyst,1,63,36915
+45,Bachelors,Software Engineer,7,20,42978
+27,Assoc,Quality Analyst,4,63,34347
+63,Masters,Project Manager,12,56,53641
+20,Assoc,Quality Analyst,2,57,30045
+41,HS-grad,Marketing Manager,10,44,33856
+37,PhD,Professor,15,66,71267
+29,HS-grad,Marketing Manager,10,61,38882
+23,Some-college,Handlers-cleaners,4,44,23919
+24,HS-grad,Graphic Designer,3,31,24111
+49,Assoc,Quality Analyst,10,27,33767
+42,HS-grad,Graphic Designer,23,27,40520
+58,Assoc,Quality Analyst,28,53,51446
+30,Some-college,Armed-Forces,11,42,37062
+22,HS-grad,Graphic Designer,3,69,33931
+49,Assoc,Nurse,27,41,46661
+59,Bachelors,Sales Associate,25,44,46759
+62,Some-college,Protective-serv,18,30,39353
+48,Bachelors,Sales Associate,27,30,50244
+64,Assoc,Quality Analyst,37,43,59292
+43,HS-grad,Marketing Manager,16,69,48562
+28,Masters,Data Scientist,7,52,56394
+38,Masters,Project Manager,13,24,52361
+39,PhD,Research Scientist,17,33,67370
+47,PhD,Legal Advisor,5,48,57933
+60,Bachelors,Software Engineer,32,36,65226
+33,PhD,Professor,3,54,58171
+43,Bachelors,Sales Associate,24,31,45540
+55,Assoc,Nurse,17,45,37568
+46,PhD,Legal Advisor,26,53,71908
+25,Some-college,Tech-support,4,61,33758
+47,PhD,Legal Advisor,0,62,50008
+46,Some-college,Machine-op-inspct,21,63,43821
+27,HS-grad,Sales Associate,3,56,28136
+41,Assoc,Quality Analyst,9,59,31248
+25,Some-college,Adm-clerical,7,46,27388
+61,Masters,Accountant,12,64,47154
+26,Some-college,Other-service,5,46,24381
+24,HS-grad,Sales Associate,0,22,21537
+47,Bachelors,Software Engineer,2,54,42351
+35,PhD,Professor,12,48,65069
+44,Bachelors,Software Engineer,17,23,50790
+39,HS-grad,Sales Associate,1,64,27565
+21,HS-grad,Sales Associate,0,30,18000
+36,Bachelors,Business Analyst,12,26,47521
+22,Some-college,Farming-fishing,4,33,20881
+62,Some-college,Other-service,28,27,47677
+65,HS-grad,Graphic Designer,38,65,53689
+53,Assoc,Nurse,33,48,57109
+20,Some-college,Other-service,1,68,20753
+48,Masters,Data Scientist,29,60,78499
+23,HS-grad,Sales Associate,4,29,22144
+37,Masters,Data Scientist,2,41,48129
+53,Bachelors,Business Analyst,4,32,31785
+42,PhD,Professor,15,46,64206
+65,Assoc,Plant Supervisor,35,58,61279
+25,PhD,Professor,0,35,49322
+48,Assoc,Nurse,9,29,29041
+34,Some-college,Machine-op-inspct,3,67,27572
+42,Bachelors,Sales Associate,20,56,46283
+53,HS-grad,Graphic Designer,16,60,37009
+32,Some-college,Farming-fishing,6,25,23575
+34,Masters,Project Manager,1,60,45344
+30,Masters,Data Scientist,5,25,49744
+29,HS-grad,Graphic Designer,6,20,27535
+43,HS-grad,Graphic Designer,14,55,38338
+36,Some-college,Nurse,10,54,38782
+50,PhD,Research Scientist,13,53,68105
+36,Assoc,Quality Analyst,5,52,30647
+18,HS-grad,Graphic Designer,0,24,22747
+52,Masters,Project Manager,18,31,56452
+27,Assoc,Nurse,8,39,35147
+39,Some-college,Farming-fishing,18,56,40733
+20,PhD,Legal Advisor,1,35,48967
+29,Bachelors,Software Engineer,4,30,41354
+29,Masters,Accountant,0,25,36644
+50,PhD,Professor,18,41,65428
+19,Masters,Accountant,1,66,40111
+24,Bachelors,Business Analyst,6,42,38198
+36,PhD,Legal Advisor,17,29,64312
+22,Some-college,Machine-op-inspct,3,60,25734
+43,Masters,Project Manager,19,60,60540
+27,Assoc,Nurse,1,44,23402
+41,Assoc,Plant Supervisor,9,57,36134
+64,Assoc,Quality Analyst,37,39,58929
+37,Assoc,Quality Analyst,11,38,38286
+51,PhD,Professor,21,22,73219
+44,PhD,Legal Advisor,9,28,58146
+53,HS-grad,Graphic Designer,1,48,27344
+36,Bachelors,Software Engineer,9,34,41988
+62,Masters,Data Scientist,3,26,53875
+53,HS-grad,Sales Associate,18,20,38005
+49,PhD,Research Scientist,31,25,83263
+27,PhD,Professor,1,46,51139
+42,Assoc,Quality Analyst,14,34,36887
+26,Bachelors,Software Engineer,2,47,44620
+37,Some-college,Tech-support,12,59,39825
+40,HS-grad,Sales Associate,14,51,32367
+50,PhD,Research Scientist,10,35,61906
+27,Some-college,Adm-clerical,1,57,25964
+20,Masters,Project Manager,1,57,37481
+44,HS-grad,Graphic Designer,13,27,32237
+23,HS-grad,Sales Associate,2,44,21051
+54,HS-grad,Sales Associate,8,37,26622
+60,Masters,Project Manager,37,59,79933
+60,Bachelors,Business Analyst,36,34,63702
+21,HS-grad,Sales Associate,1,26,18000
+41,Masters,Accountant,3,47,38330
+18,PhD,Research Scientist,0,57,60059
+65,PhD,Professor,28,24,78540
+52,Bachelors,Sales Associate,3,24,30094
+59,HS-grad,Graphic Designer,22,44,38222
+62,Bachelors,Software Engineer,31,51,64293
+59,Masters,Project Manager,38,35,76062
+39,Assoc,Nurse,8,24,27161
+34,Some-college,Adm-clerical,11,42,26390
+46,PhD,Professor,14,56,64362
+64,Masters,Project Manager,22,64,66239
+50,Some-college,Machine-op-inspct,29,36,47536
+49,PhD,Legal Advisor,9,33,56883
+26,Assoc,Plant Supervisor,6,66,32812
+36,PhD,Legal Advisor,14,47,62646
+50,HS-grad,Graphic Designer,32,38,49895
+57,Assoc,Plant Supervisor,0,48,19426
+51,PhD,Professor,28,67,81808
+46,Masters,Data Scientist,6,43,51110
+20,Masters,Project Manager,2,68,48227
+34,Masters,Data Scientist,10,44,55133
+60,Masters,Data Scientist,31,45,80773
+45,Bachelors,Software Engineer,8,20,47360
+61,HS-grad,Graphic Designer,40,26,56751
+36,PhD,Professor,18,21,66362
+63,Assoc,Quality Analyst,29,59,48215
+65,Some-college,Craft-repair,1,51,22833
+45,HS-grad,Graphic Designer,19,68,42229
+19,Masters,Project Manager,0,64,42122
+21,PhD,Legal Advisor,2,30,49565
+49,Some-college,Protective-serv,26,49,49928
+45,HS-grad,Sales Associate,27,53,44055
+65,Masters,Accountant,24,55,59343
+56,Masters,Data Scientist,31,36,79139
+36,Assoc,Quality Analyst,11,48,40085
+46,Bachelors,Business Analyst,25,36,52247
+43,Assoc,Quality Analyst,3,61,36201
+59,Some-college,Armed-Forces,12,30,38214
+57,PhD,Legal Advisor,1,49,51697
+33,Assoc,Nurse,0,45,27951
+29,Some-college,Tech-support,2,45,26214
+55,HS-grad,Marketing Manager,2,57,29048
+18,Assoc,Plant Supervisor,0,49,24172
+53,Some-college,Protective-serv,6,41,27176
+32,Some-college,Adm-clerical,14,23,35474
+54,Bachelors,Business Analyst,19,31,49530
+54,HS-grad,Sales Associate,21,25,41238
+65,Masters,Project Manager,5,44,43989
+57,PhD,Legal Advisor,28,26,72027
+55,PhD,Professor,26,39,76211
+48,Bachelors,Sales Associate,26,51,56723
+52,Masters,Data Scientist,10,40,53659
+28,Assoc,Plant Supervisor,4,54,31414
+32,Bachelors,Sales Associate,10,54,38010
+38,Assoc,Quality Analyst,9,38,33102
+19,Assoc,Nurse,1,62,30671
+40,HS-grad,Graphic Designer,10,65,38474
+38,Assoc,Quality Analyst,11,69,36572
+59,Bachelors,Business Analyst,19,57,51519
+35,Assoc,Quality Analyst,17,42,40648
+61,Assoc,Quality Analyst,4,42,31422
+27,HS-grad,Marketing Manager,5,38,31194
+21,HS-grad,Graphic Designer,0,34,18000
+37,PhD,Research Scientist,17,67,83890
+60,HS-grad,Graphic Designer,14,31,38364
+45,PhD,Legal Advisor,23,45,68542
+30,PhD,Professor,1,56,56411
+28,PhD,Research Scientist,7,63,71102
+37,Assoc,Plant Supervisor,7,48,30297
+33,Bachelors,Sales Associate,13,62,40727
+64,Masters,Accountant,26,42,59638
+37,Assoc,Nurse,4,61,31533
+48,HS-grad,Graphic Designer,22,27,39914
+29,Masters,Accountant,0,36,31440
+63,Some-college,Craft-repair,10,53,30958
+49,PhD,Research Scientist,19,34,70828
+54,Masters,Accountant,7,59,45058
+27,Masters,Project Manager,6,47,42955
+30,HS-grad,Sales Associate,3,56,28027
+55,PhD,Professor,9,59,66851
+61,PhD,Legal Advisor,22,36,68582
+59,Some-college,Transport-moving,33,28,50065
+42,PhD,Professor,15,37,67523
+56,Some-college,Adm-clerical,12,36,34504
+44,HS-grad,Marketing Manager,20,37,47264
+36,Bachelors,Business Analyst,6,54,39717
+56,Some-college,Adm-clerical,3,44,27813
+54,Masters,Data Scientist,5,38,52179
+43,Masters,Data Scientist,13,50,62284
+49,HS-grad,Sales Associate,26,57,46596
+47,PhD,Professor,2,47,47965
+55,PhD,Professor,7,27,56864
+23,PhD,Professor,5,51,56569
+48,Assoc,Quality Analyst,28,24,52827
+58,PhD,Professor,30,40,77298
+62,PhD,Professor,19,32,69647
+53,HS-grad,Marketing Manager,32,20,51013
+44,Some-college,Farming-fishing,12,42,28145
+43,PhD,Legal Advisor,14,32,55004
+33,HS-grad,Sales Associate,6,21,20098
+34,PhD,Research Scientist,6,32,61684
+30,PhD,Research Scientist,10,40,70070
+65,PhD,Professor,16,59,71153
+61,Bachelors,Business Analyst,30,42,57082
+50,Bachelors,Business Analyst,8,66,41017
+62,Bachelors,Software Engineer,13,27,48446
+29,Assoc,Plant Supervisor,0,62,27690
+60,Assoc,Nurse,30,36,55454
+46,HS-grad,Marketing Manager,20,40,38413
+25,Masters,Accountant,0,68,36556
+28,Assoc,Nurse,7,68,34129
+45,Assoc,Nurse,26,36,46204
+55,PhD,Legal Advisor,27,21,75756
+43,Bachelors,Business Analyst,16,62,55450
+30,Bachelors,Business Analyst,3,51,32248
+36,Bachelors,Business Analyst,2,65,40747
+59,Assoc,Quality Analyst,17,67,44168
+61,Bachelors,Business Analyst,26,28,53013
+41,Bachelors,Sales Associate,22,33,46922
+41,Assoc,Plant Supervisor,21,61,47252
+37,HS-grad,Marketing Manager,7,29,28911
+44,Assoc,Plant Supervisor,15,68,41336
+61,Assoc,Quality Analyst,25,66,54670
+21,Bachelors,Sales Associate,2,67,31608
+42,HS-grad,Marketing Manager,1,49,27063
+39,Bachelors,Software Engineer,20,52,59441
+32,Bachelors,Business Analyst,9,65,42179
+22,Masters,Data Scientist,0,62,56968
+40,Bachelors,Sales Associate,3,46,33673
+27,Assoc,Plant Supervisor,8,68,39240
+22,Assoc,Quality Analyst,1,64,29817
+55,Assoc,Quality Analyst,28,24,48238
+65,HS-grad,Graphic Designer,1,20,24117
+43,Assoc,Nurse,12,27,39898
+45,Masters,Data Scientist,25,49,67130
+29,Bachelors,Software Engineer,0,41,35549
+18,Masters,Accountant,0,20,34639
+32,Some-college,Handlers-cleaners,0,41,18000
+62,PhD,Legal Advisor,15,27,58539
+65,PhD,Professor,13,64,68193
+63,PhD,Legal Advisor,13,66,65473
+30,Masters,Accountant,0,50,32897
+23,Masters,Accountant,4,41,37044
+64,Some-college,Priv-house-serv,4,45,19862
+23,Bachelors,Business Analyst,2,69,40247
+30,PhD,Research Scientist,6,63,68717
+60,Assoc,Nurse,34,36,52852
+65,Assoc,Plant Supervisor,39,43,61805
+34,Masters,Data Scientist,6,62,57239
+23,Bachelors,Software Engineer,1,33,39724
+64,Masters,Accountant,3,59,40893
+43,PhD,Professor,12,21,61167
+25,Assoc,Plant Supervisor,7,34,31599
+56,Bachelors,Sales Associate,15,54,40660
+55,PhD,Research Scientist,17,69,76867
+60,Bachelors,Business Analyst,22,24,56845
+63,PhD,Research Scientist,3,48,61435
+49,Some-college,Farming-fishing,8,56,28774
+23,Some-college,Other-service,2,22,21845
+21,Bachelors,Sales Associate,0,60,31076
+49,Assoc,Quality Analyst,21,25,40860
+28,PhD,Legal Advisor,10,61,60766
+29,Assoc,Quality Analyst,6,33,28215
+40,HS-grad,Sales Associate,9,38,29003
+22,Masters,Accountant,3,42,33795
+42,Masters,Accountant,9,33,40992
+63,Some-college,Transport-moving,29,60,49111
+38,Assoc,Nurse,20,41,42949
+34,Masters,Accountant,1,31,33529
+52,Assoc,Plant Supervisor,25,35,43443
+61,PhD,Professor,11,32,60799
+44,Some-college,Protective-serv,26,34,46540
+57,PhD,Legal Advisor,11,32,58980
+53,Masters,Data Scientist,20,27,66775
+33,Masters,Project Manager,3,47,43654
+40,Masters,Project Manager,15,33,51440
+62,Some-college,Adm-clerical,36,48,53403
+30,PhD,Legal Advisor,9,40,52021
+46,Masters,Accountant,19,44,49484
+22,PhD,Research Scientist,3,49,58736
+40,Masters,Accountant,1,32,31265
+56,Bachelors,Software Engineer,18,57,54014
+32,PhD,Legal Advisor,8,39,57646
+37,Some-college,Handlers-cleaners,10,56,31545
+21,PhD,Research Scientist,0,63,64432
+36,Masters,Accountant,1,29,39074
+41,Some-college,Tech-support,16,51,37669
+60,Masters,Accountant,23,20,55393
+38,Assoc,Nurse,3,26,29670
+41,Some-college,Priv-house-serv,3,63,22649
+28,Assoc,Plant Supervisor,7,69,38766
+59,Bachelors,Sales Associate,26,68,55128
+33,PhD,Research Scientist,1,49,57784
+59,Masters,Project Manager,39,52,75840
+59,Masters,Data Scientist,36,35,79098
+44,Some-college,Protective-serv,8,35,29614
+42,Some-college,Priv-house-serv,1,31,18000
+49,HS-grad,Marketing Manager,24,53,43135
+19,Bachelors,Sales Associate,0,55,26635
+19,HS-grad,Marketing Manager,0,34,21824
+45,Bachelors,Software Engineer,19,58,56267
+35,PhD,Professor,13,53,65501
+39,Some-college,Armed-Forces,5,55,28159
+55,Masters,Project Manager,2,42,43585
+33,Masters,Accountant,10,24,45566
+48,PhD,Legal Advisor,13,25,63290
+62,Bachelors,Software Engineer,22,33,57091
+44,Masters,Data Scientist,19,42,57130
+32,Assoc,Plant Supervisor,10,52,32935
+49,PhD,Legal Advisor,7,32,54745
+22,Assoc,Nurse,0,48,27159
+62,PhD,Research Scientist,4,46,60295
+18,HS-grad,Graphic Designer,0,39,19010
+20,Assoc,Plant Supervisor,0,66,29156
+19,HS-grad,Sales Associate,0,39,18000
+20,Assoc,Quality Analyst,2,24,29283
+37,Assoc,Quality Analyst,8,58,35439
+62,PhD,Legal Advisor,12,32,61508
+39,Bachelors,Software Engineer,19,66,62413
+43,Assoc,Plant Supervisor,15,45,39790
+45,Assoc,Quality Analyst,8,39,34385
+48,Assoc,Nurse,22,33,46275
+59,Assoc,Plant Supervisor,26,30,47809
+55,PhD,Research Scientist,27,20,80426
+64,Assoc,Nurse,6,30,33238
+54,Bachelors,Sales Associate,23,35,47572
+42,HS-grad,Sales Associate,21,23,42464
+28,PhD,Research Scientist,5,60,64652
+45,Masters,Accountant,10,66,50466
+50,Masters,Accountant,13,33,43996
+45,Assoc,Plant Supervisor,16,22,33653
+32,Masters,Data Scientist,13,44,58385
+59,Assoc,Plant Supervisor,37,42,62070
+58,HS-grad,Marketing Manager,9,29,30641
+65,HS-grad,Graphic Designer,37,46,53416
+21,Masters,Project Manager,0,23,38296
+43,Assoc,Plant Supervisor,3,20,26812
+25,Masters,Accountant,4,43,36781
+60,Assoc,Plant Supervisor,26,51,49505
+33,Bachelors,Software Engineer,2,66,46509
+48,Assoc,Nurse,3,56,32475
+47,Bachelors,Business Analyst,21,30,55122
+29,Some-college,Armed-Forces,3,37,24926
+43,Masters,Data Scientist,22,45,66871
+23,Masters,Project Manager,3,27,41544
+47,Some-college,Handlers-cleaners,24,61,47358
+54,HS-grad,Marketing Manager,11,49,34012
+56,Some-college,Other-service,17,22,32992
+61,Assoc,Plant Supervisor,37,56,60254
+21,Assoc,Plant Supervisor,0,53,23608
+19,Masters,Project Manager,1,25,34014
+33,Masters,Accountant,14,33,42424
+26,Bachelors,Sales Associate,5,51,32947
+27,Masters,Accountant,6,34,40408
+64,Masters,Accountant,2,38,33252
+29,Assoc,Plant Supervisor,5,32,30949
+20,Masters,Accountant,2,39,34821
+25,Assoc,Quality Analyst,6,35,30009
+65,Masters,Accountant,8,33,41238
+27,Masters,Data Scientist,7,68,56158
+29,HS-grad,Marketing Manager,8,36,32812
+53,PhD,Professor,22,62,77262
+22,PhD,Legal Advisor,2,44,49765
+45,PhD,Research Scientist,18,46,72469
+21,HS-grad,Sales Associate,1,53,24822
+30,PhD,Professor,4,44,55742
+35,Bachelors,Business Analyst,14,37,46378
+64,Some-college,Armed-Forces,12,69,46077
+28,HS-grad,Graphic Designer,2,54,28585
+62,PhD,Research Scientist,23,60,79509
+60,HS-grad,Graphic Designer,21,42,38788
+50,Bachelors,Sales Associate,18,47,44664
+54,Assoc,Quality Analyst,25,54,49314
+40,PhD,Professor,21,41,67625
+62,Bachelors,Sales Associate,7,63,37171
+38,Some-college,Farming-fishing,8,20,28876
+40,PhD,Legal Advisor,10,62,56820
+40,Assoc,Plant Supervisor,14,52,36787
+56,Masters,Data Scientist,22,46,65107
+57,Assoc,Nurse,6,69,37358
+23,Bachelors,Sales Associate,2,28,25437
+57,Masters,Project Manager,12,68,59407
+45,Bachelors,Software Engineer,16,47,48681
+23,Some-college,Transport-moving,2,57,25958
+28,PhD,Professor,1,59,56414
+35,HS-grad,Graphic Designer,16,43,33414
+18,Masters,Accountant,0,55,36490
+51,PhD,Legal Advisor,24,35,65127
+40,Some-college,Craft-repair,18,44,37601
+36,HS-grad,Marketing Manager,0,53,27085
+35,Bachelors,Sales Associate,1,44,32011
+49,Some-college,Machine-op-inspct,8,67,35068
+48,Assoc,Nurse,9,29,29689
+26,Bachelors,Software Engineer,3,59,44235
+26,HS-grad,Sales Associate,3,36,22431
+35,Bachelors,Sales Associate,14,21,40098
+21,Masters,Data Scientist,1,64,50866
+63,Assoc,Nurse,8,49,36829
+52,Masters,Accountant,12,55,52524
+26,Some-college,Armed-Forces,3,26,27341
+40,Some-college,Machine-op-inspct,6,59,24489
+48,Masters,Accountant,24,50,53715
+61,Some-college,Other-service,16,64,40886
+23,Bachelors,Business Analyst,2,54,39336
+37,Some-college,Protective-serv,4,38,28753
+42,HS-grad,Graphic Designer,11,54,33814
+36,PhD,Professor,5,55,54929
+57,HS-grad,Graphic Designer,7,37,24407
+59,Bachelors,Sales Associate,16,64,42787
+23,Some-college,Adm-clerical,4,44,27458
+41,HS-grad,Marketing Manager,10,45,31995
+28,Bachelors,Sales Associate,5,33,26850
+65,Assoc,Plant Supervisor,20,58,47844
+24,Bachelors,Business Analyst,0,64,38776
+25,HS-grad,Sales Associate,7,23,29985
+44,Masters,Accountant,0,46,38128
+61,PhD,Legal Advisor,22,60,73147
+53,HS-grad,Marketing Manager,16,54,43645
+64,Masters,Accountant,34,33,67245
+35,HS-grad,Graphic Designer,17,33,38943
+44,Some-college,Machine-op-inspct,14,69,34076
+64,Assoc,Plant Supervisor,12,60,41199
+57,Some-college,Farming-fishing,31,51,48172
+35,Masters,Project Manager,6,48,42014
+55,Masters,Data Scientist,13,27,57781
+42,Masters,Project Manager,23,49,55669
+39,Masters,Data Scientist,2,56,53842
+34,HS-grad,Graphic Designer,15,21,37174
+56,Bachelors,Software Engineer,33,49,70982
+54,Assoc,Quality Analyst,8,24,31534
+19,Some-college,Transport-moving,0,62,23073
+63,PhD,Legal Advisor,32,37,78103
+50,HS-grad,Graphic Designer,0,43,18937
+49,Assoc,Nurse,0,47,24726
+53,Some-college,Transport-moving,5,35,26866
+35,HS-grad,Sales Associate,12,68,34363
+56,Masters,Accountant,16,34,49760
+51,PhD,Research Scientist,3,22,63102
+24,Some-college,Priv-house-serv,5,41,22701
+60,HS-grad,Marketing Manager,28,40,49815
+64,Some-college,Transport-moving,11,61,36221
+55,Bachelors,Sales Associate,7,20,29917
+41,PhD,Professor,14,26,64388
+47,Bachelors,Sales Associate,28,41,47085
+46,Assoc,Plant Supervisor,18,60,47679
+34,PhD,Research Scientist,5,33,62433
+63,HS-grad,Graphic Designer,21,22,37671
+52,Bachelors,Business Analyst,0,40,33299
+54,Masters,Project Manager,0,20,40665
+57,Bachelors,Sales Associate,25,35,46468
+53,Bachelors,Software Engineer,9,62,50133
+51,Bachelors,Sales Associate,3,33,28307
+49,PhD,Legal Advisor,18,21,62918
+39,Masters,Project Manager,8,39,44155
+64,HS-grad,Marketing Manager,5,38,25338
+32,Some-college,Adm-clerical,11,46,28617
+32,Some-college,Nurse,3,64,32444
+33,Some-college,Nurse,6,57,38367
+43,PhD,Professor,2,34,56586
+58,HS-grad,Sales Associate,22,26,43259
+49,Assoc,Plant Supervisor,30,37,56140
+27,PhD,Legal Advisor,6,45,56105
+38,Some-college,Other-service,16,52,33964
+29,Some-college,Craft-repair,7,35,24325
+44,HS-grad,Graphic Designer,16,65,34895
+24,Bachelors,Business Analyst,4,34,30354
+39,HS-grad,Graphic Designer,0,30,21357
+55,Assoc,Quality Analyst,23,59,47695
+34,PhD,Professor,4,21,51208
+34,HS-grad,Sales Associate,15,49,33850
+38,Some-college,Protective-serv,20,37,41449
+35,Masters,Data Scientist,9,67,63590
+62,Bachelors,Software Engineer,17,36,56114
+37,Bachelors,Business Analyst,14,62,47867
+30,Bachelors,Software Engineer,10,34,47520
+43,Some-college,Other-service,24,45,40523
+35,Some-college,Armed-Forces,2,21,26704
+29,Bachelors,Software Engineer,0,22,39561
+43,Assoc,Quality Analyst,2,27,29923
+18,Masters,Project Manager,0,68,46576
+33,HS-grad,Marketing Manager,15,27,35645
+58,Bachelors,Sales Associate,13,62,44329
+31,Some-college,Priv-house-serv,6,52,24668
+43,Assoc,Quality Analyst,10,21,37802
+29,PhD,Research Scientist,9,63,75960
+61,PhD,Research Scientist,25,40,81805
+59,Bachelors,Business Analyst,8,42,41981
+37,PhD,Research Scientist,19,65,76731
+29,Assoc,Nurse,7,21,30983
+61,Assoc,Plant Supervisor,5,32,31651
+35,Bachelors,Business Analyst,11,49,41642
+37,Assoc,Plant Supervisor,10,56,35171
+28,Assoc,Quality Analyst,2,24,27226
+23,Assoc,Quality Analyst,0,45,30235
+28,Masters,Data Scientist,5,27,52435
+31,PhD,Legal Advisor,9,31,56701
+63,PhD,Legal Advisor,33,60,83150
+21,HS-grad,Graphic Designer,1,32,23258
+38,Some-college,Priv-house-serv,3,37,20749
+51,HS-grad,Marketing Manager,5,27,28978
+28,Masters,Accountant,8,31,48680
+53,Assoc,Quality Analyst,9,40,29931
+59,Bachelors,Software Engineer,11,33,48472
+61,PhD,Professor,29,58,82427
+24,Bachelors,Sales Associate,0,20,26913
+61,Masters,Project Manager,9,25,48578
+55,HS-grad,Graphic Designer,23,29,38740
+56,PhD,Professor,23,52,77441
+45,Assoc,Plant Supervisor,24,51,50010
+43,Some-college,Priv-house-serv,24,30,37421
+57,Some-college,Transport-moving,22,48,42809
+19,HS-grad,Sales Associate,1,66,30476
+51,HS-grad,Sales Associate,19,54,38933
+25,Some-college,Farming-fishing,4,49,25266
+27,Bachelors,Software Engineer,6,68,49201
+36,HS-grad,Marketing Manager,17,56,45040
+40,PhD,Legal Advisor,21,35,68192
+25,Masters,Data Scientist,1,67,53346
+47,Masters,Project Manager,21,32,55440
+29,Assoc,Plant Supervisor,1,30,23579
+30,Bachelors,Business Analyst,4,41,38966
+57,Bachelors,Sales Associate,8,51,33595
+22,Masters,Data Scientist,2,29,46961
+32,PhD,Research Scientist,9,26,68040
+32,Bachelors,Sales Associate,3,40,24611
+54,Bachelors,Business Analyst,22,48,52551
+62,Masters,Data Scientist,26,58,73629
+21,PhD,Professor,3,35,53135
+42,Masters,Project Manager,11,31,45319
+29,HS-grad,Sales Associate,4,47,22751
+51,Assoc,Quality Analyst,33,32,52770
+59,Some-college,Protective-serv,37,23,49170
+24,Masters,Data Scientist,0,27,45442
+27,PhD,Legal Advisor,5,23,48442
+53,Some-college,Farming-fishing,24,42,42630
+35,Assoc,Quality Analyst,10,54,35207
+51,PhD,Legal Advisor,13,23,56918
+59,Some-college,Armed-Forces,15,31,38058
+51,Bachelors,Software Engineer,0,58,39121
+41,Assoc,Nurse,2,65,32960
+56,Some-college,Machine-op-inspct,25,68,50001
+26,Bachelors,Software Engineer,3,26,38695
+41,Some-college,Nurse,7,50,37315
+51,Assoc,Nurse,23,68,51743
+33,Bachelors,Business Analyst,8,66,43775
+53,PhD,Research Scientist,2,41,63929
+29,HS-grad,Marketing Manager,6,40,31875
+37,Some-college,Adm-clerical,14,42,34457
+38,Bachelors,Software Engineer,14,36,52965
+35,PhD,Professor,13,55,65655
+62,Bachelors,Sales Associate,6,63,34509
+27,Some-college,Handlers-cleaners,9,60,28462
+22,Masters,Accountant,1,29,32571
+25,Assoc,Quality Analyst,0,47,22846
+31,HS-grad,Graphic Designer,4,49,25203
+57,Bachelors,Software Engineer,37,62,76098
+50,Assoc,Plant Supervisor,12,33,38299
+53,Assoc,Quality Analyst,9,50,39673
+18,PhD,Professor,0,26,53943
+37,PhD,Legal Advisor,5,44,49385
+38,Bachelors,Software Engineer,17,66,55536
+62,HS-grad,Sales Associate,2,61,23575
+58,Masters,Accountant,39,22,66638
+37,Masters,Accountant,19,63,58633
+38,Masters,Project Manager,15,42,49447
+26,HS-grad,Graphic Designer,0,21,19378
+24,Assoc,Nurse,5,61,34125
+64,HS-grad,Graphic Designer,1,55,26295
+22,Assoc,Quality Analyst,1,26,19560
+42,Masters,Project Manager,4,49,46711
+26,Bachelors,Software Engineer,3,43,41175
+29,HS-grad,Graphic Designer,1,36,26729
+52,PhD,Legal Advisor,22,36,68243
+62,Assoc,Nurse,11,39,29962
+62,HS-grad,Sales Associate,0,29,20410
+45,Some-college,Protective-serv,17,58,47490
+35,HS-grad,Sales Associate,11,27,33978
+55,Bachelors,Business Analyst,8,28,41254
+52,PhD,Legal Advisor,17,24,68196
+45,Bachelors,Software Engineer,11,21,47759
+39,Assoc,Plant Supervisor,15,39,37023
+24,HS-grad,Sales Associate,0,50,21388
+22,Bachelors,Business Analyst,3,69,44805
+34,PhD,Research Scientist,3,26,60491
+48,PhD,Professor,18,58,69855
+51,PhD,Professor,14,33,64264
+54,PhD,Research Scientist,31,22,85947
+29,Assoc,Nurse,0,26,26418
+21,Masters,Project Manager,1,58,41218
+49,Assoc,Quality Analyst,9,28,35075
+36,Assoc,Quality Analyst,5,23,28579
+54,Bachelors,Software Engineer,34,50,72652
+57,Bachelors,Software Engineer,12,23,45566
+34,HS-grad,Graphic Designer,8,21,29445
+19,HS-grad,Sales Associate,1,47,24916
+20,Assoc,Nurse,2,31,29012
+56,Masters,Accountant,12,60,48802
+50,Masters,Project Manager,15,64,55193
+22,Assoc,Nurse,1,30,24200
+51,Some-college,Priv-house-serv,2,27,20332
+24,Assoc,Quality Analyst,4,21,27115
+56,HS-grad,Graphic Designer,16,64,40583
+40,Assoc,Plant Supervisor,13,25,37627
+32,Bachelors,Software Engineer,11,68,52250
+50,Masters,Data Scientist,21,69,70985
+54,PhD,Research Scientist,29,50,85781
+65,Some-college,Priv-house-serv,17,42,26930
+45,Assoc,Quality Analyst,20,58,51345
+44,Masters,Data Scientist,25,64,73884
+40,PhD,Professor,1,34,50557
+26,Some-college,Craft-repair,5,58,28702
+28,HS-grad,Marketing Manager,10,52,34988
+48,Masters,Accountant,5,65,44980
+48,Assoc,Nurse,27,58,54109
+60,HS-grad,Sales Associate,37,39,53011
+27,Some-college,Armed-Forces,4,28,27277
+55,Some-college,Tech-support,30,29,47264
+64,Masters,Data Scientist,5,67,53675
+27,HS-grad,Graphic Designer,4,65,31033
+61,Some-college,Machine-op-inspct,25,27,43460
+32,Masters,Project Manager,10,35,48456
+48,Bachelors,Sales Associate,12,35,34592
+19,Assoc,Quality Analyst,1,46,25357
+63,Assoc,Plant Supervisor,24,30,47755
+24,HS-grad,Sales Associate,5,40,26299
+63,Masters,Project Manager,30,69,68625
+65,HS-grad,Sales Associate,8,34,29970
+54,PhD,Professor,21,26,72111
+33,HS-grad,Sales Associate,5,47,25485
+26,Masters,Data Scientist,8,46,55454
+46,Masters,Project Manager,18,68,63971
+59,Masters,Data Scientist,6,61,61823
+44,Bachelors,Software Engineer,25,65,67636
+40,Assoc,Quality Analyst,9,61,34964
+20,Bachelors,Software Engineer,1,25,41068
+37,PhD,Professor,6,43,58584
+18,Bachelors,Software Engineer,0,36,36310
+58,Masters,Project Manager,2,65,45826
+61,Assoc,Plant Supervisor,25,32,45763
+34,Assoc,Nurse,14,35,36978
+28,HS-grad,Marketing Manager,0,34,26203
+30,Masters,Accountant,9,30,41664
+56,Some-college,Tech-support,22,26,42585
+50,HS-grad,Marketing Manager,14,21,36131
+24,HS-grad,Graphic Designer,3,39,25344
+18,Bachelors,Software Engineer,0,54,40126
+53,PhD,Research Scientist,24,35,82596
+41,Assoc,Plant Supervisor,10,64,37330
+53,Bachelors,Software Engineer,35,23,72366
+38,PhD,Research Scientist,3,63,61746
+43,Masters,Project Manager,20,36,57620
+31,HS-grad,Graphic Designer,0,56,26563
+65,Some-college,Other-service,13,52,34656
+36,Assoc,Quality Analyst,4,37,26646
+24,Bachelors,Software Engineer,5,31,44672
+60,Some-college,Priv-house-serv,16,24,29626
+26,Masters,Project Manager,0,52,44255
+46,PhD,Professor,28,69,82016
+32,PhD,Professor,5,61,59701
+61,Some-college,Tech-support,38,35,55448
+20,Assoc,Plant Supervisor,2,69,29775
+35,Masters,Project Manager,15,44,54048
+30,HS-grad,Marketing Manager,3,33,23920
+61,Bachelors,Business Analyst,4,24,37989
+59,Masters,Data Scientist,31,52,76408
+20,Bachelors,Software Engineer,1,49,39452
+19,HS-grad,Marketing Manager,1,22,21957
+61,Masters,Accountant,34,42,69151
+58,HS-grad,Marketing Manager,30,63,53890
+22,Masters,Project Manager,1,61,46210
+60,Bachelors,Business Analyst,24,53,55166
+20,PhD,Research Scientist,0,22,58090
+41,Some-college,Transport-moving,20,25,39514
+53,Some-college,Armed-Forces,1,30,28815
+35,Some-college,Priv-house-serv,3,59,23837
+47,Masters,Accountant,17,62,52717
+25,Masters,Project Manager,1,66,44635
+44,Assoc,Nurse,7,51,36403
+36,Some-college,Protective-serv,17,61,44681
+54,HS-grad,Graphic Designer,18,52,41716
+25,Some-college,Armed-Forces,4,61,35180
+39,Some-college,Handlers-cleaners,14,32,31703
+60,Bachelors,Software Engineer,22,52,56082
+33,PhD,Research Scientist,12,58,71852
+65,HS-grad,Marketing Manager,0,68,31634
+55,PhD,Research Scientist,23,37,78621
+25,Assoc,Quality Analyst,3,29,29062
+43,PhD,Research Scientist,6,31,61703
+39,Assoc,Plant Supervisor,18,42,38091
+38,HS-grad,Sales Associate,8,29,26837
+26,Masters,Accountant,3,21,35491
+65,Assoc,Plant Supervisor,18,22,40413
+26,Some-college,Adm-clerical,3,31,21554
+18,PhD,Professor,0,46,54229
+46,Bachelors,Sales Associate,17,31,39721
+39,Masters,Accountant,3,30,34858
+65,Some-college,Craft-repair,14,50,31221
+48,Some-college,Machine-op-inspct,18,59,36021
+31,Some-college,Craft-repair,8,67,32715
+26,Some-college,Tech-support,5,42,25727
+18,Masters,Data Scientist,0,40,47406
+34,Bachelors,Software Engineer,7,22,43985
+29,Bachelors,Sales Associate,1,65,31924
+28,HS-grad,Sales Associate,4,54,27292
+19,Assoc,Quality Analyst,1,50,32222
+45,Masters,Accountant,27,50,62345
+19,Assoc,Nurse,1,60,26011
+38,Bachelors,Software Engineer,19,57,60636
+42,Bachelors,Business Analyst,1,51,33980
+18,Assoc,Quality Analyst,0,24,21981
+29,Masters,Accountant,8,54,41622
+30,PhD,Legal Advisor,8,66,60485
+37,PhD,Legal Advisor,4,43,53766
+33,Some-college,Other-service,1,31,20604
+59,Masters,Data Scientist,38,44,84061
+40,HS-grad,Marketing Manager,17,32,38374
+49,Bachelors,Sales Associate,17,34,41952
+27,PhD,Professor,7,37,54338
+24,HS-grad,Marketing Manager,3,45,25178
+31,Masters,Accountant,0,52,35679
+34,HS-grad,Sales Associate,10,36,30130
+56,PhD,Legal Advisor,12,37,53341
+50,PhD,Research Scientist,17,28,72646
+44,HS-grad,Graphic Designer,5,54,23068
+37,Masters,Project Manager,3,29,39688
+33,Masters,Project Manager,6,35,43298
+33,Assoc,Plant Supervisor,7,31,33304
+49,Assoc,Quality Analyst,8,25,28813
+19,Assoc,Quality Analyst,0,47,23103
+56,Bachelors,Business Analyst,32,20,63135
+62,Masters,Project Manager,33,66,74868
+48,PhD,Legal Advisor,23,50,70080
+49,Masters,Project Manager,16,33,51485
+44,Masters,Accountant,24,51,57364
+63,Bachelors,Business Analyst,17,56,53516
+59,Bachelors,Business Analyst,21,38,54605
+45,PhD,Professor,2,62,57526
+48,Assoc,Nurse,10,56,41236
+46,Masters,Accountant,17,62,52803
+40,Some-college,Machine-op-inspct,18,30,33135
+25,Bachelors,Business Analyst,4,30,34695
+27,Some-college,Machine-op-inspct,2,28,22138
+61,Assoc,Nurse,11,22,37388
+38,Assoc,Plant Supervisor,19,63,48488
+30,Some-college,Adm-clerical,4,23,25399
+52,HS-grad,Graphic Designer,20,37,37242
+34,HS-grad,Graphic Designer,10,50,39692
+19,Assoc,Quality Analyst,1,34,28940
+49,Masters,Data Scientist,6,49,56260
+44,Assoc,Plant Supervisor,17,43,41850
+51,Masters,Project Manager,14,30,49411
+29,Some-college,Armed-Forces,8,62,37163
+40,Bachelors,Sales Associate,20,53,41313
+59,Bachelors,Software Engineer,27,37,62192
+45,PhD,Research Scientist,23,27,75639
+53,Bachelors,Sales Associate,4,52,30975
+47,HS-grad,Marketing Manager,7,58,33165
+24,Masters,Project Manager,6,59,48499
+56,Bachelors,Sales Associate,27,33,48799
+55,HS-grad,Graphic Designer,27,24,43818
+64,Assoc,Nurse,19,38,45789
+24,Assoc,Nurse,6,26,33943
+59,PhD,Research Scientist,18,28,75268
+42,Masters,Project Manager,19,33,59835
+36,Bachelors,Software Engineer,6,34,45641
+64,Bachelors,Software Engineer,13,52,46121
+47,Some-college,Craft-repair,21,22,38281
+23,Some-college,Armed-Forces,2,59,26828
+47,Bachelors,Software Engineer,1,28,36969
+61,Some-college,Tech-support,7,56,36476
+64,PhD,Professor,5,63,63764
+60,Assoc,Quality Analyst,32,59,57709
+25,Masters,Data Scientist,0,61,48964
+24,Assoc,Plant Supervisor,6,39,29436
+20,Some-college,Transport-moving,1,65,24011
+60,Assoc,Nurse,34,68,64310
+25,PhD,Research Scientist,5,56,61619
+34,Bachelors,Sales Associate,0,66,26765
+33,PhD,Research Scientist,12,28,65682
+38,Masters,Data Scientist,4,29,49796
+30,PhD,Legal Advisor,0,39,46328
+58,Some-college,Transport-moving,2,30,21698
+42,Bachelors,Business Analyst,16,68,52355
+43,Bachelors,Sales Associate,13,58,40909
+21,HS-grad,Marketing Manager,0,49,23977
+55,Bachelors,Sales Associate,22,23,45560
+39,Bachelors,Sales Associate,10,52,37438
+57,PhD,Research Scientist,8,60,67478
+53,Some-college,Adm-clerical,24,43,44429
+45,Masters,Project Manager,27,46,66940
+29,HS-grad,Marketing Manager,4,28,28672
+42,PhD,Legal Advisor,12,40,55701
+54,Masters,Accountant,4,32,36026
+56,Assoc,Nurse,6,57,34186
+62,Assoc,Plant Supervisor,38,56,61152
+50,HS-grad,Graphic Designer,16,61,42619
+44,Bachelors,Business Analyst,15,27,48804
+46,HS-grad,Graphic Designer,17,39,35833
+25,HS-grad,Graphic Designer,5,57,30673
+29,Some-college,Armed-Forces,6,36,30088
+59,HS-grad,Graphic Designer,11,51,33457
+61,PhD,Research Scientist,34,53,91366
+22,PhD,Research Scientist,1,35,56568
+39,Some-college,Other-service,10,29,29923
+45,HS-grad,Sales Associate,5,39,22016
+33,Assoc,Quality Analyst,5,65,34479
+37,PhD,Legal Advisor,18,33,66590
+57,Assoc,Plant Supervisor,32,50,61027
+61,Assoc,Plant Supervisor,33,69,61483
+20,PhD,Professor,2,57,55707
+61,Bachelors,Business Analyst,29,36,58551
+44,Some-college,Armed-Forces,26,68,55289
+40,Bachelors,Sales Associate,9,30,33720
+51,PhD,Legal Advisor,16,59,66395
+57,PhD,Professor,18,22,73247
+23,Assoc,Nurse,1,67,30776
+29,Assoc,Nurse,9,26,29960
+54,Bachelors,Software Engineer,23,44,57909
+46,Some-college,Nurse,6,52,32885
+30,Bachelors,Software Engineer,6,38,42238
+56,Some-college,Handlers-cleaners,23,35,42110
+51,HS-grad,Graphic Designer,3,30,25480
+33,Masters,Project Manager,6,32,45230
+24,Bachelors,Sales Associate,5,27,30619
+19,Masters,Data Scientist,0,30,47289
+46,PhD,Legal Advisor,10,58,60071
+21,Some-college,Craft-repair,1,25,20601
+18,HS-grad,Sales Associate,0,25,18000
+45,Some-college,Priv-house-serv,10,52,28115
+35,HS-grad,Graphic Designer,8,33,23212
+63,Assoc,Quality Analyst,28,55,50359
+21,PhD,Professor,3,25,52515
+30,Bachelors,Software Engineer,5,56,48265
+31,Bachelors,Software Engineer,7,55,44832
+63,HS-grad,Sales Associate,15,65,37998
+42,Bachelors,Sales Associate,18,52,44518
+27,Some-college,Machine-op-inspct,1,41,18235
+43,HS-grad,Sales Associate,12,46,25862
+41,HS-grad,Marketing Manager,2,66,30123
+31,Assoc,Nurse,11,47,42564
+60,Bachelors,Software Engineer,16,59,61654
+51,Bachelors,Sales Associate,9,29,35168
+53,Assoc,Plant Supervisor,23,31,47016
+62,Some-college,Transport-moving,36,25,51874
+39,HS-grad,Marketing Manager,8,43,27898
+23,Assoc,Plant Supervisor,5,54,36267
+63,Some-college,Nurse,35,31,55845
+24,Some-college,Adm-clerical,2,55,25368
+50,Bachelors,Sales Associate,12,37,41382
+27,Masters,Data Scientist,1,57,49681
+48,Assoc,Nurse,5,22,29798
+55,Masters,Project Manager,6,34,42365
+58,Some-college,Tech-support,23,21,41533
+55,Some-college,Adm-clerical,29,61,48592
+18,Masters,Accountant,0,53,39033
+40,Masters,Data Scientist,20,43,64904
+29,Bachelors,Sales Associate,5,39,32230
+41,Masters,Accountant,22,32,52030
+43,Masters,Project Manager,1,35,41535
+52,Assoc,Nurse,28,56,52798
+56,HS-grad,Marketing Manager,27,48,47960
+31,Assoc,Plant Supervisor,11,66,39713
+49,Some-college,Priv-house-serv,25,20,42462
+47,Some-college,Nurse,23,58,47849
+26,Bachelors,Sales Associate,5,53,33023
+36,Bachelors,Software Engineer,3,59,45086
+58,Masters,Data Scientist,21,37,67210
+36,HS-grad,Marketing Manager,15,66,43343
+54,Masters,Data Scientist,18,56,67195
+25,PhD,Research Scientist,4,52,62390
+35,Some-college,Other-service,10,29,25238
+42,Bachelors,Software Engineer,12,37,47171
+41,Masters,Accountant,1,67,42610
+18,Masters,Project Manager,0,61,43925
+64,Masters,Data Scientist,14,54,58976
+40,PhD,Professor,6,42,55256
+44,Bachelors,Software Engineer,8,25,42186
+54,Assoc,Plant Supervisor,30,53,51575
+46,HS-grad,Marketing Manager,25,33,52507
+65,Some-college,Other-service,20,47,39191
+33,Bachelors,Business Analyst,5,31,32745
+46,Some-college,Handlers-cleaners,17,29,31936
+35,Some-college,Adm-clerical,0,58,31007
+37,Bachelors,Software Engineer,9,42,48861
+63,HS-grad,Marketing Manager,32,53,51062
+30,Bachelors,Software Engineer,0,24,35170
+40,HS-grad,Graphic Designer,15,64,39454
+28,Masters,Project Manager,9,51,47181
+48,Assoc,Quality Analyst,16,66,41044
+48,PhD,Research Scientist,16,30,72646
+19,Bachelors,Software Engineer,0,20,38579
+51,Bachelors,Business Analyst,9,49,44249
+19,PhD,Research Scientist,1,21,55833
+25,HS-grad,Sales Associate,7,69,32224
+61,Masters,Accountant,7,29,43277
+37,Masters,Accountant,19,40,46918
+27,Some-college,Transport-moving,1,45,18000
+21,Some-college,Adm-clerical,0,25,22442
+64,PhD,Research Scientist,38,36,93977
+46,PhD,Legal Advisor,10,35,61034
+57,PhD,Professor,10,26,55468
+19,Masters,Data Scientist,1,35,49278
+52,HS-grad,Sales Associate,12,50,28971
+65,Assoc,Quality Analyst,1,57,31815
+45,PhD,Research Scientist,4,60,68096
+55,Assoc,Plant Supervisor,11,64,39407
+19,HS-grad,Graphic Designer,0,60,24573
+57,PhD,Legal Advisor,17,49,59084
+36,HS-grad,Graphic Designer,7,47,31984
+39,Bachelors,Sales Associate,16,55,44010
+26,HS-grad,Marketing Manager,4,31,25855
+61,Assoc,Nurse,39,57,61426
+38,PhD,Legal Advisor,19,39,65438
+21,Masters,Data Scientist,3,28,52883
+55,Masters,Project Manager,12,58,51009
+30,Assoc,Quality Analyst,12,47,36331
+27,Masters,Project Manager,5,32,44433
+49,Masters,Accountant,0,36,34223
+30,PhD,Research Scientist,10,66,65252
+29,Assoc,Quality Analyst,3,35,24113
+60,PhD,Legal Advisor,32,49,78935
+40,Bachelors,Business Analyst,13,49,47070
+32,HS-grad,Sales Associate,6,34,26477
+61,PhD,Research Scientist,10,48,65010
+41,PhD,Professor,18,21,71910
+26,HS-grad,Marketing Manager,1,42,25477
+42,Masters,Accountant,7,35,42379
+18,Masters,Accountant,0,41,32883
+31,Assoc,Plant Supervisor,3,37,24486
+56,Some-college,Nurse,0,46,20400
+28,HS-grad,Graphic Designer,0,24,19286
+52,Masters,Accountant,11,49,48359
+20,Bachelors,Software Engineer,0,60,39359
+33,Assoc,Quality Analyst,8,32,30310
+34,Bachelors,Sales Associate,5,55,33653
+60,Masters,Accountant,3,52,41952
+58,Bachelors,Sales Associate,9,55,40322
+29,Bachelors,Sales Associate,1,49,31874
+37,Bachelors,Software Engineer,11,40,51500
+42,PhD,Research Scientist,2,51,58646
+18,HS-grad,Marketing Manager,0,36,26636
+52,Masters,Data Scientist,18,42,64109
+47,HS-grad,Marketing Manager,17,35,37738
+42,HS-grad,Marketing Manager,15,34,39367
+33,Some-college,Armed-Forces,13,48,38622
+19,Assoc,Plant Supervisor,0,29,21920
+25,Assoc,Nurse,3,42,26741
+21,Some-college,Nurse,3,51,30243
+43,HS-grad,Sales Associate,16,58,40918
+36,Masters,Project Manager,12,43,48790
+39,Assoc,Nurse,14,29,38473
+61,HS-grad,Graphic Designer,9,56,33554
+35,PhD,Professor,14,57,66832
+27,HS-grad,Marketing Manager,6,47,25865
+20,PhD,Professor,1,62,56691
+26,Bachelors,Sales Associate,6,61,31138
+62,Masters,Accountant,39,63,74323
+33,Some-college,Nurse,5,68,38427
+60,HS-grad,Marketing Manager,17,26,39581
+40,PhD,Legal Advisor,21,61,73238
+62,Assoc,Quality Analyst,8,50,31812
+50,Assoc,Nurse,20,50,46229
+49,Bachelors,Business Analyst,24,54,59006
+38,PhD,Professor,0,51,54079
+50,Bachelors,Sales Associate,27,50,53373
+60,PhD,Legal Advisor,14,25,59180
+54,Bachelors,Software Engineer,19,53,49961
+23,Assoc,Quality Analyst,5,47,30488
+30,Some-college,Farming-fishing,10,31,29335
+41,Some-college,Craft-repair,12,47,30633
+61,PhD,Research Scientist,35,61,92289
+42,Bachelors,Business Analyst,2,66,37507
+42,Some-college,Transport-moving,16,25,37809
+18,HS-grad,Marketing Manager,0,67,34575
+21,Assoc,Nurse,0,56,28139
+27,Some-college,Adm-clerical,5,33,27771
+36,HS-grad,Sales Associate,4,50,21308
+41,Some-college,Adm-clerical,1,42,19870
+55,Masters,Project Manager,35,46,76177
+44,Bachelors,Sales Associate,14,34,38909
+28,PhD,Professor,9,41,61052
+63,Some-college,Other-service,17,62,37339
+56,HS-grad,Sales Associate,9,28,27379
+31,HS-grad,Graphic Designer,9,44,32014
+31,Some-college,Farming-fishing,6,55,21491
+44,PhD,Research Scientist,6,34,63668
+21,Some-college,Nurse,0,20,21534
+43,HS-grad,Graphic Designer,15,40,38564
+28,Masters,Data Scientist,10,25,55708
+39,PhD,Legal Advisor,4,66,59898
+31,Assoc,Plant Supervisor,9,24,33039
+18,Masters,Data Scientist,0,20,46197
+42,HS-grad,Marketing Manager,12,47,33085
+65,PhD,Professor,7,68,64406
+41,HS-grad,Sales Associate,5,44,25758
+20,Some-college,Priv-house-serv,0,38,18000
+46,Bachelors,Sales Associate,17,21,41585
+34,PhD,Professor,16,31,68573
+20,Bachelors,Business Analyst,2,69,40173
+37,Assoc,Nurse,5,43,31703
+33,Masters,Project Manager,13,53,55066
+42,PhD,Professor,14,49,65400
+39,Assoc,Nurse,9,50,36182
+62,HS-grad,Graphic Designer,34,65,53342
+33,Masters,Project Manager,6,23,46722
+34,Assoc,Plant Supervisor,12,30,32029
+58,PhD,Legal Advisor,37,41,84241
+63,Assoc,Quality Analyst,34,23,56974
+53,Masters,Project Manager,18,36,56347
+54,HS-grad,Graphic Designer,1,36,23638
+26,PhD,Professor,1,61,54347
+34,Some-college,Transport-moving,6,43,27109
+30,Assoc,Plant Supervisor,2,26,25861
+40,PhD,Research Scientist,1,69,62192
+48,Some-college,Protective-serv,0,33,27753
+63,Masters,Project Manager,13,47,49934
+33,Masters,Accountant,2,36,36184
+34,HS-grad,Sales Associate,11,42,31965
+22,PhD,Research Scientist,2,55,59455
+56,HS-grad,Sales Associate,25,23,51498
+38,Masters,Data Scientist,18,40,65784
+61,Assoc,Quality Analyst,31,29,53564
+45,Masters,Project Manager,20,23,61506
+40,Some-college,Priv-house-serv,17,20,32959
+48,Assoc,Quality Analyst,26,63,52822
+42,Assoc,Quality Analyst,0,55,30697
+43,Masters,Data Scientist,3,68,56800
+40,PhD,Legal Advisor,20,60,67723
+54,Bachelors,Software Engineer,30,40,64245
+58,PhD,Legal Advisor,28,66,80817
+18,Bachelors,Sales Associate,0,38,23856
+30,Bachelors,Software Engineer,5,68,47875
+55,Bachelors,Sales Associate,32,52,56293
+30,PhD,Professor,3,29,56629
+48,Some-college,Transport-moving,12,22,30278
+50,Masters,Data Scientist,32,24,76928
+24,Assoc,Quality Analyst,6,41,28005
+49,Bachelors,Business Analyst,23,26,54510
+45,HS-grad,Sales Associate,7,34,29430
+22,HS-grad,Sales Associate,1,45,22303
+43,HS-grad,Graphic Designer,0,52,22002
+43,Masters,Accountant,22,37,51808
+59,PhD,Legal Advisor,11,20,58157
+31,Assoc,Plant Supervisor,12,22,29430
+41,Some-college,Nurse,8,32,27966
+42,Masters,Accountant,14,41,45097
+49,Assoc,Quality Analyst,31,40,51037
+26,Some-college,Handlers-cleaners,8,44,28954
+36,HS-grad,Marketing Manager,13,39,37457
+35,Assoc,Nurse,3,27,26692
+54,HS-grad,Graphic Designer,32,46,59100
+63,Some-college,Farming-fishing,34,56,53638
+29,HS-grad,Graphic Designer,10,43,29284
+51,Bachelors,Business Analyst,18,39,50640
+27,PhD,Professor,3,46,55047
+65,Assoc,Quality Analyst,18,40,42740
+26,PhD,Professor,8,46,64578
+50,Some-college,Protective-serv,0,31,24082
+22,PhD,Professor,2,35,55346
+48,Some-college,Tech-support,0,66,24142
+56,Some-college,Transport-moving,15,35,34439
+65,PhD,Legal Advisor,24,51,72396
+33,PhD,Research Scientist,3,48,64750
+30,Assoc,Quality Analyst,7,24,28847
+20,Bachelors,Software Engineer,2,52,47146
+58,Bachelors,Software Engineer,17,69,59085
+44,Masters,Accountant,3,64,37011
+31,Assoc,Quality Analyst,2,42,29259
+62,PhD,Research Scientist,22,46,78491
+54,HS-grad,Marketing Manager,21,36,41863
+26,PhD,Professor,3,21,54320
+34,Assoc,Quality Analyst,11,23,36910
+48,Masters,Data Scientist,28,60,75913
+34,Masters,Data Scientist,8,25,55073
+33,HS-grad,Graphic Designer,4,21,23857
+49,Masters,Data Scientist,12,66,66537
+35,PhD,Legal Advisor,3,45,51797
+18,Masters,Data Scientist,0,42,49865
+24,Assoc,Nurse,3,54,34914
+35,PhD,Legal Advisor,10,62,62350
+57,HS-grad,Marketing Manager,0,48,27041
+60,HS-grad,Sales Associate,25,35,38728
+37,Bachelors,Software Engineer,12,52,55222
+64,Bachelors,Sales Associate,3,49,30901
+48,Assoc,Nurse,8,32,29269
+65,PhD,Research Scientist,30,56,86156
+43,Assoc,Plant Supervisor,1,64,28864
+18,Bachelors,Sales Associate,0,59,29192
+19,PhD,Professor,1,57,55093
+25,Assoc,Nurse,5,23,27634
+43,Assoc,Quality Analyst,1,35,25980
+36,Some-college,Protective-serv,7,33,31981
+43,Bachelors,Software Engineer,23,51,58046
+19,Bachelors,Software Engineer,1,20,33176
+29,Bachelors,Software Engineer,8,55,47182
+63,HS-grad,Marketing Manager,21,44,41122
+23,Masters,Project Manager,1,35,38195
+24,Assoc,Quality Analyst,0,69,30965
+30,PhD,Legal Advisor,6,48,53912
+52,Masters,Project Manager,9,38,49232
+63,Masters,Accountant,34,64,61919
+61,Bachelors,Software Engineer,39,26,75498
+36,PhD,Legal Advisor,13,41,64968
+50,Assoc,Nurse,3,61,32220
+58,Assoc,Nurse,34,47,55379
+59,Masters,Data Scientist,12,66,61423
+54,Bachelors,Software Engineer,30,47,66005
+43,Assoc,Nurse,24,58,46380
+35,HS-grad,Graphic Designer,0,44,22030
+50,Bachelors,Business Analyst,31,37,56488
+56,HS-grad,Marketing Manager,6,61,36438
+28,Bachelors,Sales Associate,8,23,32653
+48,HS-grad,Marketing Manager,3,57,35296
+39,Assoc,Quality Analyst,16,33,39946
+52,HS-grad,Marketing Manager,12,54,38579
+33,Masters,Accountant,1,26,32499
+47,Masters,Data Scientist,9,60,61385
+54,Assoc,Nurse,1,61,29160
+60,Masters,Data Scientist,30,35,74701
+45,HS-grad,Marketing Manager,11,29,33242
+21,Some-college,Tech-support,2,28,24020
+65,PhD,Professor,21,23,72534
+55,HS-grad,Marketing Manager,25,30,46570
+30,Assoc,Nurse,5,54,30336
+64,Assoc,Plant Supervisor,36,67,65327
+52,Assoc,Nurse,34,47,57992
+26,Masters,Project Manager,4,54,42034
+61,Masters,Accountant,0,48,36184
+40,HS-grad,Graphic Designer,14,35,33045
+18,Assoc,Nurse,0,26,27735
+49,HS-grad,Sales Associate,8,48,25486
+50,Masters,Project Manager,6,31,38109
+34,PhD,Legal Advisor,3,22,49187
+40,PhD,Professor,12,34,63244
+36,PhD,Professor,12,48,63810
+58,PhD,Professor,16,68,69698
+47,Bachelors,Software Engineer,11,65,53968
+36,Some-college,Other-service,6,45,27879
+55,PhD,Legal Advisor,15,21,63492
+41,Bachelors,Software Engineer,19,58,56263
+61,Bachelors,Software Engineer,4,48,44921
+54,Assoc,Plant Supervisor,26,49,53633
+47,Assoc,Quality Analyst,2,62,30241
+58,HS-grad,Sales Associate,12,34,32476
+22,PhD,Legal Advisor,4,54,51799
+30,Bachelors,Business Analyst,12,54,47847
+25,Masters,Project Manager,4,50,41822
+19,Bachelors,Sales Associate,1,60,31596
+20,Some-college,Tech-support,2,23,26378
+35,HS-grad,Marketing Manager,9,30,29492
+43,Masters,Data Scientist,23,42,71953
+41,Masters,Project Manager,1,33,38371
+30,Bachelors,Software Engineer,3,54,36828
+48,Some-college,Machine-op-inspct,21,29,39426
+59,Bachelors,Software Engineer,9,42,47007
+63,Masters,Data Scientist,33,56,81642
+25,Bachelors,Software Engineer,6,25,43278
+46,Assoc,Plant Supervisor,24,40,44514
+35,PhD,Legal Advisor,14,57,64347
+43,HS-grad,Sales Associate,14,52,34887
+64,PhD,Professor,30,54,85578
+36,PhD,Professor,11,32,60483
+23,Bachelors,Software Engineer,3,24,47149
+64,Bachelors,Business Analyst,20,56,51105
+24,HS-grad,Marketing Manager,0,35,29364
+51,Some-college,Protective-serv,32,45,49037
+58,Some-college,Adm-clerical,21,53,44117
+40,Some-college,Transport-moving,16,28,39188
+26,Some-college,Other-service,3,67,20634
+33,PhD,Research Scientist,3,41,62730
+46,Masters,Project Manager,5,45,46966
+18,Bachelors,Business Analyst,0,62,37080
+29,Some-college,Priv-house-serv,8,27,24161
+43,Bachelors,Business Analyst,20,69,57572
+33,PhD,Research Scientist,5,62,66465
+19,Bachelors,Sales Associate,0,28,24049
+33,Bachelors,Sales Associate,5,44,30202
+43,PhD,Professor,24,55,75515
+26,Assoc,Plant Supervisor,1,57,28510
+21,PhD,Professor,0,28,51966
+44,Masters,Project Manager,9,35,48211
+23,Assoc,Plant Supervisor,5,68,32815
+23,Masters,Project Manager,2,66,46769
+65,Masters,Accountant,31,54,60177
+53,Some-college,Tech-support,5,62,32736
+42,Assoc,Plant Supervisor,16,60,47350
+47,HS-grad,Graphic Designer,6,50,26827
+21,Assoc,Quality Analyst,3,37,31913
+36,Some-college,Farming-fishing,5,20,24060
+64,Masters,Data Scientist,18,48,63154
+29,Masters,Project Manager,0,26,37674
+48,Bachelors,Business Analyst,27,25,54073
+54,HS-grad,Marketing Manager,17,45,36533
+49,Masters,Data Scientist,23,35,65789
+52,Assoc,Plant Supervisor,32,37,52663
+18,Some-college,Nurse,0,44,23366
+27,Some-college,Adm-clerical,3,26,19522
+65,Bachelors,Business Analyst,18,66,56383
+59,Bachelors,Software Engineer,33,26,65272
+42,Some-college,Craft-repair,9,34,24842
+23,PhD,Legal Advisor,3,34,51400
+49,Masters,Data Scientist,31,24,70613
+35,PhD,Research Scientist,2,36,62362
+32,Some-college,Machine-op-inspct,4,22,19564
+54,Masters,Data Scientist,2,54,49028
+34,Some-college,Farming-fishing,7,26,28366
+48,HS-grad,Sales Associate,26,31,46663
+31,Bachelors,Business Analyst,10,26,37551
+46,Masters,Project Manager,8,55,49570
+62,HS-grad,Sales Associate,32,53,55651
+24,Masters,Data Scientist,2,58,54347
+59,Masters,Data Scientist,12,31,59808
+37,Masters,Project Manager,17,55,58947
+57,Assoc,Quality Analyst,1,69,32490
+56,HS-grad,Sales Associate,8,41,26077
+20,Assoc,Nurse,2,61,30082
+43,Assoc,Plant Supervisor,12,37,33460
+44,Some-college,Armed-Forces,19,58,44845
+41,HS-grad,Marketing Manager,7,28,28511
+33,Assoc,Quality Analyst,7,63,35298
+64,Masters,Accountant,5,24,37342
+25,Some-college,Other-service,7,30,28365
+38,HS-grad,Marketing Manager,10,67,35162
+50,Some-college,Handlers-cleaners,30,67,50990
+51,PhD,Legal Advisor,13,35,56246
+60,PhD,Legal Advisor,40,48,86152
+42,PhD,Legal Advisor,24,43,69287
+38,PhD,Professor,3,53,55241
+58,Bachelors,Business Analyst,27,36,54599
+48,HS-grad,Sales Associate,29,34,46772
+47,Some-college,Craft-repair,1,61,24904
+30,Assoc,Plant Supervisor,12,43,31318
+29,Assoc,Nurse,0,49,31835
+42,Bachelors,Software Engineer,11,65,54124
+41,Masters,Project Manager,18,38,57695
+57,Assoc,Plant Supervisor,28,43,51933
+59,Masters,Data Scientist,25,33,66503
+35,Masters,Data Scientist,11,57,60336
+21,Assoc,Quality Analyst,2,63,29403
+25,Bachelors,Business Analyst,7,62,38076
+49,HS-grad,Graphic Designer,4,39,22538
+53,PhD,Legal Advisor,4,32,49732
+28,HS-grad,Sales Associate,4,27,23547
+62,Bachelors,Business Analyst,2,55,32940
+32,Assoc,Nurse,13,46,39704
+61,HS-grad,Marketing Manager,32,65,54958
+18,PhD,Research Scientist,0,35,58953
+30,HS-grad,Graphic Designer,8,34,27443
+52,HS-grad,Marketing Manager,23,52,48736
+57,Masters,Accountant,13,49,45104
+44,Masters,Accountant,14,35,48554
+56,PhD,Professor,28,41,79541
+26,Masters,Data Scientist,7,34,53732
+25,Masters,Accountant,4,60,41133
+29,PhD,Research Scientist,3,59,63087
+41,Some-college,Other-service,20,52,40851
+20,HS-grad,Sales Associate,2,34,23522
+23,PhD,Professor,4,36,55238
+41,Masters,Project Manager,16,40,53286
+22,Some-college,Adm-clerical,3,67,32610
+38,Masters,Data Scientist,17,54,68677
+38,Assoc,Plant Supervisor,4,25,27648
+65,Some-college,Priv-house-serv,7,28,18000
+56,Masters,Data Scientist,14,54,64625
+58,HS-grad,Graphic Designer,36,61,55523
+37,Bachelors,Software Engineer,1,31,37394
+55,HS-grad,Sales Associate,29,43,44040
+63,PhD,Legal Advisor,22,31,71952
+46,Masters,Accountant,12,62,46187
+61,PhD,Research Scientist,15,34,75559
+44,Some-college,Other-service,22,48,37889
+60,HS-grad,Sales Associate,6,61,34101
+22,Bachelors,Software Engineer,2,60,43113
+19,PhD,Legal Advisor,1,22,50404
+23,Some-college,Handlers-cleaners,2,37,18000
+35,Bachelors,Business Analyst,2,28,36770
+34,Bachelors,Sales Associate,1,60,30351
+45,Assoc,Nurse,2,57,34057
+62,Bachelors,Sales Associate,10,56,36742
+64,HS-grad,Graphic Designer,25,50,44010
+47,Some-college,Adm-clerical,9,27,24556
+27,Assoc,Quality Analyst,3,60,28419
+18,Masters,Data Scientist,0,21,46975
+44,PhD,Research Scientist,14,65,74278
+18,Masters,Data Scientist,0,62,52585
+51,Some-college,Other-service,31,48,48299
+56,HS-grad,Marketing Manager,7,38,26311
+55,Masters,Data Scientist,34,62,82097
+27,Assoc,Nurse,9,43,29911
+51,Masters,Data Scientist,6,20,51630
+29,Bachelors,Business Analyst,4,30,33580
+21,HS-grad,Sales Associate,3,45,23697
+52,Some-college,Tech-support,18,25,37968
+27,Assoc,Plant Supervisor,3,21,27190
+33,Assoc,Nurse,14,29,35189
+40,Assoc,Quality Analyst,19,32,42467
+28,Masters,Accountant,0,69,35095
+54,PhD,Legal Advisor,33,52,82095
+57,Bachelors,Business Analyst,32,31,58497
+39,HS-grad,Marketing Manager,5,52,25064
+30,PhD,Professor,10,34,57491
+61,Masters,Project Manager,33,67,75952
+59,Masters,Accountant,18,27,50904
+41,Bachelors,Software Engineer,20,21,54834
+47,Bachelors,Software Engineer,11,63,50332
+28,Bachelors,Business Analyst,10,27,45390
+37,Some-college,Farming-fishing,7,28,23781
+25,HS-grad,Graphic Designer,4,40,25125
+40,Bachelors,Sales Associate,13,34,36762
+22,HS-grad,Graphic Designer,2,66,26317
+61,Assoc,Plant Supervisor,36,36,55787
+65,HS-grad,Marketing Manager,38,66,64753
+47,PhD,Professor,27,50,78930
+63,Masters,Data Scientist,8,36,56289
+56,Masters,Accountant,21,31,57117
+26,Some-college,Handlers-cleaners,7,33,25134
+59,Bachelors,Sales Associate,29,45,51523
+52,Masters,Project Manager,30,54,65979
+33,Some-college,Handlers-cleaners,0,51,21320
+37,Bachelors,Business Analyst,14,37,43307
+46,HS-grad,Marketing Manager,28,38,43885
+63,Some-college,Machine-op-inspct,7,43,25798
+31,Bachelors,Business Analyst,4,60,39025
+31,Assoc,Plant Supervisor,11,52,33463
+64,HS-grad,Sales Associate,35,26,46903
+23,Masters,Project Manager,5,57,49345
+49,Some-college,Protective-serv,12,25,34602
+55,Assoc,Nurse,17,64,48290
+57,Masters,Data Scientist,29,68,75940
+42,Bachelors,Business Analyst,1,55,33931
+36,Some-college,Handlers-cleaners,9,37,26244
+34,Masters,Accountant,8,43,39606
+63,Bachelors,Business Analyst,7,56,42295
+24,HS-grad,Marketing Manager,2,45,25066
+63,PhD,Research Scientist,10,33,65485
+46,Bachelors,Software Engineer,22,37,58539
+30,Assoc,Nurse,11,66,37486
+62,Some-college,Nurse,24,52,49368
+32,HS-grad,Marketing Manager,11,57,37026
+51,Bachelors,Business Analyst,26,50,56212
+26,Bachelors,Sales Associate,8,27,30321
+19,Bachelors,Software Engineer,0,23,37847
+65,Bachelors,Business Analyst,13,49,44267
+19,PhD,Research Scientist,0,59,62235
+59,PhD,Research Scientist,39,50,98431
+48,Bachelors,Software Engineer,26,56,65749
+55,HS-grad,Sales Associate,22,33,39659
+51,Bachelors,Sales Associate,5,57,33532
+57,Some-college,Other-service,7,27,21071
+52,Bachelors,Software Engineer,21,42,54469
+39,Masters,Accountant,4,50,39280
+46,HS-grad,Marketing Manager,22,43,45091
+55,Some-college,Adm-clerical,36,23,54539
+40,Some-college,Priv-house-serv,21,34,34994
+60,Assoc,Quality Analyst,24,44,49500
+60,PhD,Research Scientist,22,68,87323
+32,Bachelors,Software Engineer,0,49,37441
+30,Bachelors,Business Analyst,6,27,36585
+60,Bachelors,Software Engineer,8,44,44885
+31,Bachelors,Sales Associate,2,63,35190
+34,Some-college,Handlers-cleaners,2,20,23301
+45,Bachelors,Sales Associate,15,31,41239
+62,Masters,Data Scientist,16,59,65932
+32,Masters,Data Scientist,1,25,50663
+37,HS-grad,Sales Associate,8,24,23044
+36,PhD,Professor,0,20,52749
+44,Masters,Project Manager,5,25,40554
+21,Assoc,Nurse,3,38,30209
+51,Some-college,Protective-serv,3,57,26940
+43,Some-college,Other-service,25,38,40404
+37,HS-grad,Sales Associate,9,64,36240
+29,PhD,Professor,9,20,54612
+39,PhD,Professor,17,21,70964
+38,PhD,Research Scientist,3,45,59039
+27,Some-college,Farming-fishing,6,62,27214
+35,HS-grad,Sales Associate,5,42,24438
+40,PhD,Research Scientist,2,58,65184
+30,PhD,Research Scientist,11,66,74929
+51,Assoc,Quality Analyst,16,46,37793
+51,Assoc,Nurse,11,42,35702
+30,HS-grad,Sales Associate,6,57,23713
+62,HS-grad,Graphic Designer,4,32,23693
+49,PhD,Professor,18,40,66442
+27,Masters,Project Manager,7,59,49050
+40,Masters,Data Scientist,21,23,66824
+59,Assoc,Nurse,22,25,48993
+34,Some-college,Farming-fishing,12,20,27675
+46,Bachelors,Sales Associate,11,58,31463
+44,Assoc,Quality Analyst,15,43,39135
+19,Bachelors,Sales Associate,0,49,26883
+56,PhD,Professor,31,20,79890
+37,Assoc,Plant Supervisor,16,36,40233
+40,Bachelors,Software Engineer,13,29,49903
+65,Some-college,Adm-clerical,28,46,52123
+27,Some-college,Farming-fishing,9,61,29935
+57,PhD,Legal Advisor,30,60,80409
+19,Masters,Data Scientist,1,58,51589
+50,Some-college,Other-service,3,64,33994
+59,Bachelors,Sales Associate,4,44,26802
+35,HS-grad,Marketing Manager,13,38,39918
+52,PhD,Professor,28,61,79957
+53,HS-grad,Sales Associate,6,65,31093
+60,Masters,Project Manager,16,56,59334
+65,Assoc,Quality Analyst,2,20,32019
+58,HS-grad,Graphic Designer,25,36,42330
+22,Assoc,Quality Analyst,0,32,29604
+64,HS-grad,Sales Associate,3,55,28678
+23,HS-grad,Marketing Manager,2,31,26273
+63,PhD,Legal Advisor,32,29,76592
+20,PhD,Research Scientist,0,65,64222
+39,Some-college,Craft-repair,18,54,40884
+30,HS-grad,Sales Associate,2,51,24423
+41,Assoc,Plant Supervisor,2,38,28143
+59,Bachelors,Business Analyst,34,23,61417
+53,HS-grad,Sales Associate,18,62,42862
+58,Bachelors,Sales Associate,24,61,50235

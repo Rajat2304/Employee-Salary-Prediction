@@ -1,0 +1,7 @@
+Model,MSE,R² Score
+Linear Regression,"69,73,846",0.9685
+Ridge Regression,"70,37,775",0.9682
+Lasso Regression,"70,01,893",0.9684
+Random Forest,"1,02,52,403",0.9537
+Gradient Boosting,"90,13,717",0.9593
+Support Vector Regression,"22,48,79,121",-0.0146
